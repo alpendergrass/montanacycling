@@ -73,8 +73,12 @@ class Category < ActiveRecord::Base
   end
   
   def ages=(value)
-    self.ages_begin = value.begin
-    self.ages_end = value.end
+#alp: expecting a string that looks like 10-18  
+    age_split = value.strip.split('-')
+    self.ages_begin = age_split[0].to_i unless age_split[0].nil?
+    self.ages_end = age_split[1].to_i unless age_split[1].nil?
+#    self.ages_begin = value.begin
+#    self.ages_end = value.end
   end
   
   def descendants

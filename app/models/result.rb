@@ -380,18 +380,14 @@ class Result < ActiveRecord::Base
     end
   end
   
-  # alphere: time is now a time type in db (was float)
-  #alptodo: make this change to the other time methods below.
   def time_s
-    return '' if self.time.blank?
-    self.time.to_s(:elapsed_time)
-#    time_to_s(self.time)
+    time_to_s(self.time)
   end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
-  def time_s=(time)
-    self.time = s_to_time(time)
-  end
+#alp  def time_s=(time)
+#    self.time = s_to_time(time)
+#  end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
   def time_total_s
@@ -399,9 +395,9 @@ class Result < ActiveRecord::Base
   end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
-  def time_total_s=(time_total)
-    self.time_total = s_to_time(time_total)
-  end
+#alp  def time_total_s=(time_total)
+#    self.time_total = s_to_time(time_total)
+#  end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
   def time_bonus_penalty_s
@@ -409,9 +405,9 @@ class Result < ActiveRecord::Base
   end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
-  def time_bonus_penalty_s=(time_bonus_penalty)
-    self.time_bonus_penalty = s_to_time(time_bonus_penalty)
-  end
+#alp  def time_bonus_penalty_s=(time_bonus_penalty)
+#    self.time_bonus_penalty = s_to_time(time_bonus_penalty)
+#  end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
   def time_gap_to_leader_s
@@ -419,42 +415,41 @@ class Result < ActiveRecord::Base
   end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
-  def time_gap_to_leader_s=(time_gap_to_leader_s)
-    self.time_gap_to_leader = s_to_time(time_gap_to_leader_s)
-  end
+#alp  def time_gap_to_leader_s=(time_gap_to_leader_s)
+#    self.time_gap_to_leader = s_to_time(time_gap_to_leader_s)
+#  end
   
-  # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
-  # This method doesn't handle some typical edge cases very well
-  # alphere: eliminated
-#  def time_to_s(time)
-#    return '' if time == 0.0 or time.blank?
+#  alphere: time is now a time type in db (was float) - eliminated calculations
+  def time_to_s(time)
+    return '' if self.time.blank?
+    time.to_s(:elapsed_time)
 #    hours = (time / 3600).to_i
 #    minutes = ((time - (hours * 3600)) / 60).floor
 #    seconds = (time - (hours * 3600).floor - (minutes * 60).floor)
-#    # TODO Use sprintf better
 #    seconds = sprintf('%0.2f', seconds)
 #    if hours > 0
 #      hour_prefix = "#{hours.to_s.rjust(2, '0')}:"
 #    end
 #    "#{hour_prefix}#{minutes.to_s.rjust(2, '0')}:#{seconds.rjust(5, '0')}"
-#  end
+  end
   
   # Time in hh:mm:ss.00 format. E.g., 1:20:59.75
   # This method doesn't handle some typical edge cases very well
-  def s_to_time(string)
-    if string.to_s.blank?
-      0.0
-    else
-      string.gsub!(',', '.')
-      parts = string.to_s.split(':')
-      parts.reverse!
-      t = 0.0
-      parts.each_with_index do |part, index|
-        t = t + (part.to_f) * (60.0 ** index)
-      end
-      t
-    end  
-  end
+#  def s_to_time(string)
+#    if string.to_s.blank?
+#      0.0
+#      nil
+#    else
+#      string.gsub!(',', '.')
+#      parts = string.to_s.split(':')
+#      parts.reverse!
+#      t = 0.0
+#      parts.each_with_index do |part, index|
+#        t = t + (part.to_f) * (60.0 ** index)
+#      end
+#      t
+#    end
+#  end
 
   # Fix common formatting mistakes and inconsistencies
   def cleanup

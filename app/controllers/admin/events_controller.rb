@@ -161,7 +161,7 @@ class Admin::EventsController < ApplicationController
     event_id = params[:id]
     event = Event.find(event_id)
     results_file = ResultsFile.new(temp_file, event)
-#    begin
+    begin
       standings = results_file.import
       expire_cache
       flash[:notice] = "Uploaded results for #{uploaded_file.original_filename}"
@@ -174,17 +174,17 @@ class Admin::EventsController < ApplicationController
         :standings_id => standings.to_param,
         :id => event.to_param
       }
-#    rescue  Exception => error
-#      stack_trace = error.backtrace.join("\n")
-#      logger.error("#{error}\n#{stack_trace}")
-#      redirect_path = {
-#        :controller => "/admin/events",
-#        :action => :show,
-#        :id => event.to_param,
-#
-#      }
-#      flash[:warn] = "Could not upload results: #{error}"
-#    end
+    rescue  Exception => error
+      stack_trace = error.backtrace.join("\n")
+      logger.error("#{error}\n#{stack_trace}")
+      redirect_path = {
+        :controller => "/admin/events",
+        :action => :show,
+        :id => event.to_param,
+
+      }
+      flash[:warn] = "Could not upload results: #{error}"
+    end
     
     redirect_to(redirect_path)
   end

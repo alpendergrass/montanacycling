@@ -25,7 +25,7 @@ module ApplicationHelper
   def grid_columns(column)
     if @@grid_columns.nil?
       @@grid_columns = Hash.new
-      @@grid_columns['age'] = Column.new(:name => 'age', :description => 'Age', :size => 5, :fixed_size => true)
+      @@grid_columns['ages'] = Column.new(:name => 'ages', :description => 'Ages', :size => 5, :fixed_size => true)
       @@grid_columns['category_name'] = Column.new(:name => 'category_name', :description => 'Category', :size => 20, :fixed_size => true)
       @@grid_columns['category_class'] = Column.new(:name => 'category_class', :description => 'Class', :size => 5, :fixed_size => true)
       @@grid_columns['city'] = Column.new(:name => 'city', :description => 'City', :size => 15, :fixed_size => true)

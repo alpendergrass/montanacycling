@@ -10,7 +10,9 @@ class ResultsFile < GridFile
     "wsba#" => "number",
     "rider_#" => "number",
     "bib #" => "number",
-    "racing_age" => "age",
+    "age_group" => "ages", #this is expected to be a range, like 10-18
+    "age group" => "ages",
+    "age" => "ages",
     "barcategory" => "parent",
     "bar_category" => "parent",
     "category.name" => "category_name",
@@ -85,7 +87,7 @@ class ResultsFile < GridFile
     RACING_ON_RAILS_DEFAULT_LOGGER.info("import results")
     standings = nil
     
-#    begin
+    begin
       @event.disable_notification!
       standings = Standings.create!(
         :event => @event,
@@ -113,18 +115,9 @@ class ResultsFile < GridFile
         RACING_ON_RAILS_DEFAULT_LOGGER.debug("import #{row_hash.inspect}") if RACING_ON_RAILS_DEFAULT_LOGGER.debug? 
         
         if new_race?(row_hash, index)
-          if row_hash.has_key?(:category_class)
-            category = Category.new(:name => (row_hash[:category_name] + " " + row_hash[:category_class] + " " + row_hash[:gender]))
-          else
-            category = Category.new(:name => (row_hash[:category_name] + " " + row_hash[:gender]))
-          end
-          # alphere:           category = Category.new(:name => row.first)
-  # Expects Race names in first column before set of results:
-  # Senior Women Category 3
-  # | 1 | Leitheiser | Ann | HFV |
+          category = new_category(row_hash)
           race = standings.races.create(:category => category, :notes => to_notes(row))
           race.result_columns = result_columns
-          
           if race.result_columns.include?('name')
             name_index = race.result_columns.index('name')
             race.result_columns[name_index] = 'first_name'
@@ -139,9 +132,7 @@ class ResultsFile < GridFile
           race.save!
           RACING_ON_RAILS_DEFAULT_LOGGER.info("ResultsFile import race #{category}")
         end
-        
         if has_results?(row_hash)
-#alphere:        elsif has_results?(row_hash)
           if race
             result = race.results.build(row_hash)
             result.updated_by = @event.name
@@ -149,22 +140,21 @@ class ResultsFile < GridFile
               race = standings.races.create(:category => category)
               result.race = race
             end
-            if row_hash[:time] and !row_hash[:time].include?(':')
+#alp         if row_hash[:time] and !row_hash[:time].include?(':')
 #              result.time = result.time.to_f
-            end
+#            end
             if row_hash[:time] and (row_hash[:time].downcase.include?('st') || row_hash[:time].downcase.include?('s.t.'))
               result.time = previous_time
             end
-            if row_hash[:time_bonus_penalty] and !row_hash[:time_bonus_penalty].include?(':')
-              result.time_bonus_penalty = result.time_bonus_penalty.to_f
-            end
+#            if row_hash[:time_bonus_penalty] and !row_hash[:time_bonus_penalty].include?(':')
+#              result.time_bonus_penalty = result.time_bonus_penalty.to_f
+#            end
             if row_hash[:time_total] and !row_hash[:time_total].include?(':')
               result.time_total = result.time_total.to_f
             end
-            if row_hash[:time_gap_to_leader] and !row_hash[:time_gap_to_leader].include?(':')
-              result.time_gap_to_leader = result.time_gap_to_leader.to_f
-            end
-            
+#            if row_hash[:time_gap_to_leader] and !row_hash[:time_gap_to_leader].include?(':')
+#              result.time_gap_to_leader = result.time_gap_to_leader.to_f
+#            end
             if result.place.to_i > 0
               result.place = result.place
             elsif !result.place.blank?
@@ -174,7 +164,6 @@ class ResultsFile < GridFile
             end
             previous_place = result.place
             previous_time = result.time
-            
             result.cleanup
             result.save!
             RACING_ON_RAILS_DEFAULT_LOGGER.debug("#{race} #{result.place}")
@@ -188,16 +177,16 @@ class ResultsFile < GridFile
       # TODO Not so clean
       standings.create_or_destroy_combined_standings
       standings.combined_standings.recalculate if standings.combined_standings
-#     rescue Exception => error
-#      begin
-#        standings.destroy if standings
-#      rescue Exeception => cleanup_error
-#        OBRA_LOGGER.warn("Problem cleaning up after failed import: #{cleanup_error}")
-#      ensure
-#        standings = nil
-#        raise error
-#      end
-#    end
+     rescue Exception => error
+      begin
+        standings.destroy if standings
+      rescue Exeception => cleanup_error
+        OBRA_LOGGER.warn("Problem cleaning up after failed import: #{cleanup_error}")
+      ensure
+        standings = nil
+        raise error
+      end
+    end
     standings
   end
 
@@ -240,4 +229,20 @@ class ResultsFile < GridFile
     return '' if row.nil? or row.size < 2
     row[1, row.size - 1].select {|cell| !cell.blank?}.join(", ")
   end
+  
+  def new_category(row_hash)
+    # alp: original code expected race name in first column before results for that race:
+    # Senior Women Category 3
+    # | 1 | Leitheiser | Ann | HFV |
+    if row_hash.has_key?(:category_class) && row_hash.has_key?(:ages)
+      Category.new(:name => (row_hash[:category_name] + " " + row_hash[:category_class] + " " + row_hash[:gender] + " " + row_hash[:ages]), :ages => row_hash[:ages])
+    elsif row_hash.has_key?(:category_class)
+      Category.new(:name => (row_hash[:category_name] + " " + row_hash[:category_class] + " " + row_hash[:gender]))
+    elsif row_hash.has_key?(:ages)
+      Category.new(:name => (row_hash[:category_name] + " " + row_hash[:gender] + " " + row_hash[:ages]), :ages => row_hash[:ages])
+    else
+      Category.new(:name => (row_hash[:category_name] + " " + row_hash[:gender]))
+    end
+  end
+
 end
