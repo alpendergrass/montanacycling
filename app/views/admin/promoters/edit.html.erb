@@ -1,0 +1,57 @@
+<% @page_title = "Admin: Promoters: #{@promoter.name}" %>
+
+<%- if flash[:notice] -%>
+  <div class="message" id="message">
+      <%= image_tag('icons/confirmed.gif', :height => 11, :width => 11, :id => 'confirmed') %>
+      <%= flash[:notice] %>
+  </div>
+<%- end -%>
+
+<%- if flash[:warn] -%>
+  <div class="message" id="message">
+      <%= image_tag('icons/warn.gif', :height => 11, :width => 11, :id => 'confirmed') %>
+      <%= flash[:warn] %>
+  </div>
+<%- end -%>
+
+<%= error_messages_for 'promoter' %>
+
+<% form_for([:admin, @promoter]) do |f| %>
+  <table class="base">
+    <caption><%= @promoter.name %></caption>
+    <tr><th colspan="3"></th></tr>
+    <tr valign="top">
+      <td>
+        <table>
+          <tr>
+            <td class="field_label">Name:</td>
+            <td><%= f.text_field :name %></td>
+          </tr>
+          <tr>
+            <td class="field_label">Phone:</td>
+            <td><%= f.text_field :phone %></td>
+          </tr>
+          <tr>
+            <td class="field_label">Email:</td>
+            <td><%= f.text_field :email %></td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <%= table(:events, :collection => @promoter.events(true), :sort_by => :date, :sort_direction => "desc", :embedded => true) do |t|
+          t.column :date, :format => :long
+          t.column :name
+        end -%>
+      </td>
+    </tr>
+    <tr class="buttons">
+      <td class="updatedon" colspan="2">Updated: <%= time_ago_in_words(@promoter.updated_at, true) + " ago" unless @promoter.updated_at.nil? %></td>
+      <td class="right">
+        <%= submit_tag "Save" %>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <%= link_to("Back to #{@event.name}", :controller => 'events', :action => 'show', :id => @event.id, :promoter_id => @promoter.id) if @event %>
+  <%= hidden_field_tag('event_id', @event.id) if @event %>
+<% end -%>

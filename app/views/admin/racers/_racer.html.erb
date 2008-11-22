@@ -1,0 +1,42 @@
+<tr class="<%= cycle("even", "odd") %>" id="racer_<%= racer.id %>_row" style="position: relative;">
+  <td class="name" style="position: relative;">
+    <%- @racer = racer -%>
+    <div class="editable" id="racer_<%= racer.id %>" style="background-image: url(/images/icons/person.gif); background-repeat: no-repeat;">
+      <span id="racer_<%= racer.id %>_name" style="padding-left: 24px;"><%= render(:partial => 'racer_name', :locals => { :racer => racer }) %></span>
+    </div>
+  </td>
+  <td class="team">
+    <div class="editable" id="racer_<%= racer.id %>_team_name">
+      <%= render(:partial => 'team', :locals => { :racer => racer }) %>
+    </div>
+  </td>
+  <td class="aliases">
+    <%= render(:partial => 'aliases', :locals => { :racer => racer }) %>
+  </td>
+  <td class="right">
+    <%= racer.road_category %>
+  </td>
+  <td class="right">
+    <%= racer.mtb_category %>
+  </td>
+  <!--ttd class="right">
+    <%# racer.dh_number %>
+  </td-->
+  <td class="right">
+    <%= racer.ccx_category %>
+  </td>
+  <!--ttd class="member">
+      <%#= check_box_tag "racer_member_#{racer.id}", "1", racer.member?, 
+              :onchange => "new Ajax.Request('/admin/racers/toggle_attribute/#{racer.id}?attribute=member', 
+                            {asynchronous:true, evalScripts:true})" %>
+  </td-->
+  <td class="right" style="white-space: nowrap;">
+      <%= link_to 'Results', :controller => '/admin/results', :action => 'racer', :id => racer.id %>
+    |
+    <%= link_to 'Edit', :action => 'show', :id => racer.id %>
+  </td>
+   <td class="icon"><%= link_to_remote image_tag('/images/buttons/small_remove_solo.gif', :height => 16, :width => 16),
+                          { :url => admin_racer_url(racer), :method => :delete, :confirm => "Really delete #{racer.name}?" },
+                          { :class => "image", :id => "delete_racer_#{racer.id}" } %>
+    </td>
+</tr>

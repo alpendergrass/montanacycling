@@ -1,0 +1,16 @@
+<table class="base" id="upcoming_events">
+  <caption><%= caption %></caption>
+
+  <%- if upcoming_events.empty? -%>
+  <tr><th></th></tr>
+  <tr><td>No upcoming events in the next <%= pluralize(upcoming_events.weeks, "week") %> </td></tr>
+  <%- end -%>
+
+  <%- upcoming_events.disciplines.each do |discipline| -%>
+    <%= discipline_upcoming_events(discipline, upcoming_events) %>
+  <% end -%>
+
+  <tr>
+    <td colspan="2"><%= footer %></td>
+  </tr>
+</table>

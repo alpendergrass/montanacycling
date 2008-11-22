@@ -1,0 +1,1034 @@
+html
+{
+  background-color: rgb(224,224,224);
+  padding-top: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+body
+{
+  font-size: 12px;
+  line-height: 1.33em;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-align: left;
+  color: black;
+  border: 2px solid black;
+  margin-top: 16px;
+  margin-left: 8px;
+  margin-right: 8px;
+  padding-bottom: 24px;
+  background-color: white;
+  overflow: auto;
+}
+
+div.content
+{
+  text-align: center;
+  margin: 16px 16px 0px 16px;
+  padding-bottom:  16px;
+}
+
+table
+{
+  border: 0px;
+  border-style: none;
+  padding: 0px;
+  margin: 0px;
+  border-collapse: collapse; 
+  border-spacing: 0px 0px; 
+  empty-cells: show;
+  display: inline-table;
+  margin-left: auto; 
+  margin-right: auto
+}
+
+td
+{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-align: left;
+  vertical-align: top;
+  color: black;
+  padding: 0px;
+}
+
+form {
+  margin: 0px;
+  padding: 0px;
+}
+
+form td {
+  padding-top: 0px;
+}
+
+input {
+  font-family: "MS Shell Dlg", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 13.333px;
+  line-height: normal;
+}
+
+textarea
+{
+  padding-top: 2px;
+}
+
+td input
+{
+  margin: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 2px;
+  margin-right: 8px;
+}
+
+a
+{
+  color: black;
+  text-decoration: none;
+}
+
+table.base div.editable a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: inherit;
+}
+
+a:hover, table.titlebar td.links a:hover, table a:hover, table.base a:hover, table.base caption a:hover, a.ad:hover {
+  color: black;
+  background-color: rgb(255,222,20);
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: black;
+}
+
+a.image:hover, a.anchor:hover, a.ad:hover, a.home_page_photo:hover, a.image:hover img {
+  border-bottom-width: 0px;
+  border-bottom-style: none;
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+table.base div.editable a:hover {
+  color: black;
+  background-color: #FFFEE2;
+  text-decoration: none;
+}
+
+table.base td a.image:hover {
+  border: none;
+  text-decoration: none;
+  background-color: transparent;  
+}
+
+td.disclosure a.disclosure:hover
+{
+  background-color: inherit;
+  border: 0px;
+  border-style: none;
+}
+
+a:active
+{
+  color: inherit;
+  text-decoration: none;
+}
+
+a.obvious, table.base#news a
+{
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: black;
+}
+
+p, p ol, ul, div.text
+{
+  width: 600px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.titlebar
+{
+  height: 62px;
+  width: 100%;
+  background-color: rgb(224,224,224);
+  background-image: url(/images/backgrounds/title_bar.gif);
+}
+
+table.titlebar a
+{
+  border: none;
+}
+
+table.titlebar td.links
+{
+  text-align: left;
+  padding-top: 26px;
+  color: rgb(224,224,224);
+  font-size: 11px;
+  line-height: 11px;
+  font-weight: bold;
+}
+
+table.titlebar td.links#right
+{
+  text-align: right;
+}
+
+table.titlebar td.links a
+{
+  text-decoration: none;
+  color: rgb(224,224,224);
+  font-weight: bold;
+}
+
+/* For static pages from old site */
+span.titlebarlinks
+{
+  color: white;
+}
+
+h1
+{
+  color: #999;
+  font-size: 21px;
+  line-height: 25px;
+  margin-top: 24px;
+  margin-bottom: 4px;
+}
+
+h1 a
+{
+  color: #999;
+}
+
+h1.top
+{
+  margin-top: 0px;
+}
+
+h2
+{
+  color: black;
+  font-size: 16px;
+  margin-top: 24px;
+  margin-bottom: 4px;
+}
+
+h3
+{
+  color: #999;
+  font-size: 14px;
+  margin-top: 16px;
+  margin-bottom: 4px;
+}
+
+h3 a
+{
+  color: #999;
+}
+
+h4
+{
+  margin-bottom: 0px;
+}
+
+.type
+{
+  font-size: 10pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.monotype
+{
+  font-size: 8pt;
+  font-family: Monaco, "Courier New", Courier, monospaced;
+}
+
+img {
+  border: 0px none;
+  margin: 0px;
+  padding: 0px;
+}
+
+a img, td a img {
+  border: 0px none; 
+}
+
+td.home_page_photo
+{
+  width: 33%;
+  text-align: right;
+}
+
+.home_page_photo_3_cols
+{
+  width: 100%;
+  text-align: center;
+}
+
+td.home_page_photo a img, td.home_page_photo_2_cols a img, .home_page_photo_3_cols a img {
+  border: 2px solid black;
+}
+
+div.photo_caption
+{
+  font-size: 11px;
+  font-weight: bold;
+  color: #999;
+  text-align: left;
+  margin-top: 8px;
+  margin-left: auto;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+div.photo_caption a {
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+}
+
+td.home_page_photo  div.photo_caption
+{
+  width: 289px;
+}
+
+td.home_page_photo_2_cols div.photo_caption
+{
+  width: 578px;
+}
+
+.home_page_photo_3_cols div.photo_caption
+{
+  width: 883px;
+}
+
+div.photo_caption a
+{
+  color: #999;
+}
+
+div.photo_caption a:hover
+{
+  color: black;
+}
+
+.ads
+{
+  margin-top: 24px;
+  text-align: left;
+  margin-left: auto;
+  vertical-align: top;
+}
+
+table.ads td
+{
+  width: 291px;
+}
+
+input.photo_text_field
+{
+  width: 300px;
+}
+
+td.home_page_photo_2_cols div.homepage_links, .home_page_photo_3_cols div.homepage_links
+{
+  margin-left: 0;
+}
+
+div.homepage_links
+{
+  width: 291px;
+  text-align: left;
+  margin-left: auto;
+  vertical-align: top;
+}
+
+.tableList
+{
+  font-size: 10pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.tablehead
+{
+  font-size: 9pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.updatedon
+{
+  margin-top: 8px;
+  font-size: 8pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color: #666666;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.not_found {
+  text-align: center;
+}
+
+.copyright
+{
+  font-size: 6pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+table.base
+{
+  width: 100%;
+  background-color: #ffffbd;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+  margin-bottom: 16px;
+  border-bottom: 2px solid rgb(255,222,20);
+}
+
+table.base caption
+{
+  text-align: left;
+  color: #999;
+  font-size: 22px;
+  height: 30px;
+  line-height: 30px;
+  min-height: 30px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+}
+
+table.base caption.small
+{
+  font-size: 14px;
+}
+
+table.base caption a
+{
+  color: #999;
+}
+
+table.base th {
+  margin-top: 4px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: left;
+  vertical-align: baseline;
+  font-size: 7pt;
+  line-height: 19px;
+  height: 19px;
+  color: black;
+  background-color: #ffffbd;
+  background-image: url(/images/table/header.jpg);
+  background-repeat: repeat-x;
+}
+
+table.base tr.odd {
+  background-color: #ff9;
+}
+
+table.base td {
+  padding-top: 5px;
+  padding-bottom: 3px;
+  padding-left: 8px;
+  text-align: left;
+  font-size: 12px;
+}
+
+table.base#upcoming_events
+{
+  width: 100%;
+  display: table;
+}
+
+table.base td.date, table.base th.date
+{
+  white-space: nowrap;
+  text-align: right;
+}
+
+table.base#upcoming_events td.date
+{
+  text-align: left;
+}
+
+table.base#home_page_results
+{
+  width: 100%;
+  display: table;
+}
+
+table.base#login
+{
+  width: 300px;
+}
+
+pre
+{
+  font-size: 8pt;
+  font-family: Monaco, "Lucida Console", Monospace, "Bitstream Vera Sans Mono", "Courier New", Courier, monospaced;
+}
+
+.header { background-color: #E8E88C; }
+
+.link_spacer
+{
+  color: #666666;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#table_sub_head
+{
+  font-size: 8pt;
+  padding-top: 16px;
+  color: #99811A;
+}
+
+.total
+{
+  font-size: 8pt;
+  font-weight: bold;
+  padding-right: 16px;
+  text-align: right;
+}
+
+tr.buttons td.add_remove {
+  padding-left: 0px;
+  padding-top: 4px;
+}
+
+tr.buttons td.right, tr td.right {
+  text-align: right;
+}
+
+table.base td.right, table.base td.right, table.base th.right {
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: right;
+}
+
+table.base th.center {
+  text-align: center;
+}
+
+table.results {
+  margin-top: 20px;
+  padding-bottom: 12px;
+}
+
+table.results td {
+  padding-top: 12px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+table.results tr.standings td {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+table.results td.date, table.results tr.standings td.date {
+  width: 70px;
+  padding-left: 8px;
+  padding-right: 4px;
+  text-align: right;
+  font-weight: normal;
+}
+
+table.results td.date {
+  font-weight: bold;
+}
+
+table.base a.preliminary {
+  font-style: italic;
+}
+
+table.base a.event {
+  font-weight: bold;
+}
+
+#padded {
+  margin-left: 8px;
+}
+
+div.inline {
+    float: right;
+}
+
+table.inline, table.embedded
+{
+  border: 1px solid rgb(255,222,20);
+  width: 100%;
+}
+
+table.embedded th {
+  border-bottom: 1px solid rgb(255,222,20);
+  background-color: #ff9;
+  background-image: none;
+}
+
+table.embedded tr.odd {
+  background-color: #ffffbd;
+}
+
+table.dialog {
+  background-color: #f3f3f3;
+  border-color: #acacac;
+  border-width: 1px;
+  border-style: solid;
+  padding-top: 12px;
+  padding-bottom: 20px;
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+table.dialog td.buttons {
+  text-align: right;
+  padding-top: 12px;
+}
+
+table.dialog td.buttons input {
+  padding-left: 8px;
+}
+
+table#left_nav {
+  font-size: 8pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+table#left_nav td.text {
+  white-space: nowrap;  
+  padding-left: 4px;
+}
+
+table#left_nav td.icon {
+  text-align: right;
+  padding-right: 0px;
+}
+
+table#left_nav td.icon_padding {
+  padding-left: 36px;
+}
+
+.field_label, td.field_label, table.base td.field_label
+{
+  text-align: right;
+  font-weight: bold;
+  min-width: 75px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 8px;
+  white-space: nowrap;  
+}
+
+td.left, table.base td.left
+{
+  text-align: left;
+}
+
+.vertical_field_label
+{
+  text-align: left;
+  vertical-align: bottom;
+  font-weight: bold;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 8px;
+}
+
+.vertical_field
+{
+  text-align: left;
+  vertical-align: top;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 8px;
+}
+
+table.base td.field_value
+{
+  padding-top: 9px;
+  line-height: normal;
+}
+
+table.inline td.field_value, table.embedded td.field_value
+{
+  padding-top: 7px;
+}
+
+div.archive_navigation a
+{
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  vertical-align: middle;
+}
+
+div.archive_navigation span
+{
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  vertical-align: middle;
+}
+
+div.archive_navigation input
+{
+  padding-left: 4px;
+  padding-right: 4px;
+  vertical-align: middle;
+}
+
+table.post
+{
+  display: inline-table;
+  margin-top: 20px;
+}
+
+table.post td
+{
+  padding-top: 4px; 
+}
+
+div.tabs {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.message
+{
+  width: 400px;
+  font-size: 8pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color: #666666;
+  white-space: normal;
+  text-align: left;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 4px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#notice
+{
+  background-image: url(/images/icons/confirmed.gif);
+  background-repeat: no-repeat;
+  background-position: 0px 9px;
+}
+
+#warn
+{
+  color: red;
+  background-image: url(/images/icons/warn.gif);
+  background-repeat: no-repeat;
+  background-position: 0px 9px;
+}
+
+.inline_error
+{
+  padding-top: 4px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 4px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-size: 8pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color: #C6413E;
+  white-space: normal;
+}
+
+.fieldWithErrors
+{
+  border-color: red;
+}
+
+#errorExplanation
+{
+  width: 400px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#errorExplanation h2
+{
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  background-color: #c00;
+  color: #fff;
+}
+
+#errorExplanation p
+{
+  color: #333;
+  margin-bottom: 0;
+  padding: 5px;
+}
+
+#errorExplanation ul li
+{
+  font-size: 12px;
+  list-style: square;
+}
+
+.cancelled
+{
+  text-decoration: line-through;
+}
+
+label {
+  font-weight: bold;
+}
+
+tr.month
+{
+  vertical-align: top;
+}
+
+td.day
+{
+  height: 70px;
+  width: 14%;
+  border: 1px solid white;
+  padding: 4px 4px;
+  text-align: left;
+}
+
+td.day div.number
+{
+  font-weight: bold;
+}
+
+td.day div.event
+{
+  padding-bottom: 4px;
+}
+
+td.day_from_other_month
+{
+  height: 70px;
+  width: 14%;
+  border: 1px solid rgb(255, 255, 222);
+  background-color: rgb(255, 255, 222);
+  padding: 4px 4px;
+}
+
+td.day_from_other_month div.number
+{
+  font-style: italic;
+  text-align: left;
+}
+
+div.breadcrumb {
+  padding: 32px 0px 0px 2px;
+  font-weight: normal;
+  font-size: 10pt;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color:  #c9c9c9;
+}
+
+div.breadcrumb a {
+  color:  #c9c9c9;
+  border-bottom: none;
+}
+
+div.categories {
+  width: 350px;
+  border: 1px solid rgb(190, 190, 190);
+  padding-left: 4px;
+  padding-right: 4px;
+  min-height: 200px;
+  margin-right: 24px;
+}
+
+td.disclosure
+{
+  width: 20px;
+  padding-right: 8px;
+  text-align: right;
+  float: right;
+}
+
+.category
+{
+  cursor: move;
+}
+
+table.full_width {
+  width: 100%;
+}
+
+table.half_width {
+  width: 48%;
+}
+
+td#left_racer {
+  padding-right: 16px;
+}
+
+.hovering, table.base tr.hovering {
+  background-color: rgb(255,222,20);
+}
+
+table.base#racers, table.base#teams, table.promoters {
+  margin-bottom: 0px;
+}
+
+table.base#racers th.name, table.base#teams th.name {
+ width: 200px;
+ padding-left: 40px;
+}
+
+table.base#racers td.name, table.base#teams td.name {
+  width: 240px;
+  white-space: nowrap;
+}
+
+table.base#racers td div.editable, table.base#teams td div.editable {
+  white-space: nowrap;
+}
+
+table.base#racers td div.editable input, table.base#teams td div.editable input {
+  position: relative;
+  top: -4px;
+  width: 150px;
+}
+
+table.base#racers td div.editable input.button, table.base#teams td div.editable input.button {
+  top: 0px;
+  width: auto;
+}
+
+table.base#racers th.team {
+  width: 200px;
+  margin: 0px;
+}
+
+table.base#racers th.aliases, table.base#racers td.aliases {
+  width: 200px;
+}
+
+table.base#teams th.aliases, table.base#teams td.aliases {
+  width: 100%;
+}
+
+table.base#racers img.icon, table.base#teams img.icon {
+  float: left;
+  position: relative;
+  top: -2px;
+  padding-left: 4px;
+  padding-right: 8px;
+}
+
+table.base#racers td.icon a:hover, table.base#teams td.icon a:hover {
+  border: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+table.base#racers td.icon, table.base#teams td.icon  {
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 0px;
+}
+
+table.base#racers td.icon img, table.base#teams td.icon img {
+  border: 0px;
+}
+
+table.base#racers td img.cancel, table.base#teams td img.cancel {
+  width: 16px;
+  height: 16px;
+  margin-left: -6px;
+}
+
+table.base#racers td.name a.cancel, table.base#teams td.name a.cancel {
+  border: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+table.base#racers td.member, table.base#teams td.member {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+textarea#team_sponsors {
+  width: 95%;
+  height: 72px;
+}
+
+table.base tr.error td {
+  color: rgb(250, 50, 50);
+  font-weight: bold;
+}
+
+table.base tr.error td img.icon {
+  padding-top: 1px;
+}
+
+form#export_form {
+  padding-top: 12px;
+  margin: 0px;
+}
+
+table.promoters th.name {
+  padding-left: 32px;
+}
+
+table.promoters td.name {
+  background-position: 8px 3px;
+  background-image: url(/images/icons/person.gif);
+  background-repeat: no-repeat;
+  padding-left: 32px;
+  white-space: nowrap;
+}
+
+table.promoters_events td.date, table.promoters_events th.date {
+  padding-right: 16px;
+}
+
+table.promoters_events .name {
+  width: 100%;
+}
+
+/* public teams page */
+table.base#teams td.club_name, table.base#teams td.contact, table.base#teams td.contact_phone {
+  white-space: nowrap;
+}

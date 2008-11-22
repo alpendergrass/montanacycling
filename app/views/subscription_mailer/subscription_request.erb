@@ -1,0 +1,15 @@
+<%= @subscription.name %>
+<%= @subscription.email %>
+<%= @subscription.phone %>
+<%= @subscription.address %>
+<%= @subscription.city %>, <%= @subscription.state %> <%= @subscription.zip %>
+
+<%= @subscription.comments %>
+
+Interests:
+<%= "Youth programs" unless @subscription.youth_programs.blank? %>
+<%= "Racer info"     unless @subscription.racer_info.blank? %>
+<%= "Race results"   unless @subscription.race_results.blank? %>
+<%= "Volunteer"      unless @subscription.volunteer.blank? %>
+<%= "Sponsorship"    unless @subscription.sponsorship.blank? %>
+<%= "Contribution"   unless @subscription.contribution.blank? %>

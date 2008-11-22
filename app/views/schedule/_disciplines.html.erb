@@ -1,0 +1,19 @@
+<%= tabs do |tabs|
+		#alphere use all disciplines in discipline table in DB.
+		for discipline_name in @discipline_names
+			if discipline_name.to_s == ''
+				tabs.add('All', :discipline => nil)
+			else
+				#remove underscores and captalize each word
+				tabs.add(discipline_name.gsub('_', " ").gsub(/\b\w/) {|s| s.upcase }, :discipline => discipline_name) 
+			end
+		end  
+
+#		tabs.add('Criterium', :discipline => 'criterium', :year => @year)
+#		tabs.add('Cyclocross', :discipline => 'cyclocross', :year => @year)
+#		tabs.add('Downhill', :discipline => 'downhill', :year => @year)
+#		tabs.add('Cross Country', :discipline => 'mountain_bike', :year => @year)
+#		tabs.add('Road', :discipline => 'road', :year => @year)
+#		tabs.add('Time Trial', :discipline => 'time_trial', :year => @year)
+#		tabs.add('Track', :discipline => 'track', :year => @year)
+	end  %>
