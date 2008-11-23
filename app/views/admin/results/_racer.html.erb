@@ -1,11 +1,12 @@
 <table class="base" id="racer_<%= racer.id %>">
   <caption><%= racer.name %> <small><%= [racer.team.blank? ? nil : racer.team.name, racer.city, racer.racing_age].compact.join(', ') %></small></caption>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th> </th>
+    <th>Place</th>
+    <th> </th>
     <th>Race</th>
     <th>Category</th>
+    <th>Team</th>
     <th>Date</th>
     <th>Pts</th>
   </tr>
@@ -23,6 +24,7 @@
     </td>
     <td><%= result.race.standings.name %></td>
     <td><%= result.race.name %></td>
+    <td><%= result.team_name %></td>
     <td><%= result.race.standings.event.date.strftime("%D") %></td>
     <td class="right"><%= number_with_precision(result.points, 1) if result.points > 0%></td>
   </tr>
