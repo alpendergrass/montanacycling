@@ -1,4 +1,5 @@
 ActionController::Routing::Routes.draw do |map|
+
   map.connect "/admin/events/update_bar_points/:id", :controller => "admin/events", :action => "update_bar_points"
   map.connect "/admin/events/upcoming", :controller => "admin/events", :action => "upcoming"
   map.connect "/admin/events/update/:id/:standings_id", :controller => "admin/events", :action => "update", :requirements => {:id => /\d+/, :standings_id => /\d+/}
@@ -20,6 +21,8 @@ ActionController::Routing::Routes.draw do |map|
     admin.resources(:tables) if RAILS_ENV == "test"
     admin.resources :teams
     admin.resources :velodromes
+    admin.resources :article_categories
+    admin.resources :articles
   end
 
   map.resources :teams

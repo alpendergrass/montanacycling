@@ -1,0 +1,39 @@
+<%#
+# To change this template, choose Tools | Templates
+# and open the template in the editor.
+%>
+
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :title %><br />
+    <%= f.text_field :title %>
+  </p>
+
+  <p>
+    <%= f.label :category %><br />
+    <%= select("article", "article_category_id", ArticleCategory.find(:all).collect{ |c| [ c.name, c.id ] } ) %>
+  </p>
+
+  <p>
+    <%= f.label :heading %><br />
+    <%= f.text_field :heading %>
+  </p>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_field :description %>
+  </p>
+  <p>
+    <%= f.label :body %><br />
+    <%= f.text_area :body %>
+  </p>
+  <p>
+    <%= f.label :position %><br />
+    <%= f.text_field :position %>
+  </p>
+  <p>
+    <%= f.check_box :display %><%= f.label :display %><br />
+   </p>
+  <p>
+    <%= f.submit action_button %>
+  </p>

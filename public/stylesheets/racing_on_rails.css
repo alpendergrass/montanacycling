@@ -36,7 +36,7 @@ table
   padding: 0px;
   margin: 0px;
   border-collapse: collapse; 
-  border-spacing: 0px 0px; 
+  border-spacing: 0px; 
   empty-cells: show;
   display: inline-table;
   margin-left: auto; 
@@ -46,10 +46,10 @@ table
 td
 {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  text-align: left;
+  text-align: center;
   vertical-align: top;
   color: black;
-  padding: 0px;
+  padding: 5px;
 }
 
 form {

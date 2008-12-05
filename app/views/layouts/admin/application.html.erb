@@ -26,8 +26,8 @@
     <div class="shadow_1">
       <div class="frame">
         <div class="nav" id="top">
-          <h1><%= link_to ASSOCIATION.name, :controller => 'home', :action => 'index' %></h1>
-          <div class="breadcrumb"><%= link_to ASSOCIATION.short_name, :controller => 'home', :action => 'index' %></div>
+          <h1><%= link_to ASSOCIATION.name, :controller => 'schedule', :action => 'index' %></h1>
+          <div class="breadcrumb"><%= link_to ASSOCIATION.short_name, :controller => 'schedule', :action => 'index' %></div>
         </div>
         <div class="content">
           <%- if @show_tabs.nil? || @show_tabs -%>
@@ -35,7 +35,9 @@
             <%= link_to('Schedule', :controller => 'schedule', :action => 'index') %> |
             <%= link_to('Racers', :controller => 'racers', :action => 'index') %> |
             <%= link_to('Teams', :controller => 'teams', :action => 'index') %> |
-            <%= link_to('Categories', :controller => 'categories', :action => 'index') %>
+            <%= link_to('Race Categories', :controller => 'categories', :action => 'index') %> |
+            <%= link_to('Article Categories', :controller => 'article_categories', :action => 'index') %> |
+            <%= link_to('Articles', :controller => 'articles', :action => 'index') %>
           </div>
           <%- end -%>
 <%= yield %>
