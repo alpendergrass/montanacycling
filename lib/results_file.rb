@@ -116,7 +116,7 @@ class ResultsFile < GridFile
         
         if new_race?(row_hash, index)
           category = new_category(row_hash)
-          race = standings.races.create(:category => category, :notes => to_notes(row))
+          race = standings.races.create(:category => category)
           race.result_columns = result_columns
           if race.result_columns.include?('name')
             name_index = race.result_columns.index('name')
