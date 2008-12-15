@@ -72,8 +72,8 @@ ActionController::Routing::Routes.draw do |map|
   map.connect "/posts/:mailing_list_name/:year/:month",  :controller => "posts", :action => "list"
   map.connect "/posts/:mailing_list_name",               :controller => "posts"
 
-  map.connect "/results/competition/:competition_id/racer/:racer_id", :controller => "results", :action => "competition"
-  map.connect "/results/competition/:competition_id/team/:team_id", :controller => "results", :action => "competition"
+#  map.connect "/results/competition/:competition_id/racer/:racer_id", :controller => "results", :action => "competition"
+#  map.connect "/results/competition/:competition_id/team/:team_id", :controller => "results", :action => "competition"
   map.connect "/results/event/:id", :controller => "results", :action => "event"
   map.connect "/results/racer/:id", :controller => "results", :action => "racer"
   map.connect "/results/show/:id", :controller => "results", :action => "show"
@@ -82,15 +82,16 @@ ActionController::Routing::Routes.draw do |map|
   map.connect "/results/:year/:discipline/:id", :controller => "results", :action => "event", :requirements => {:year => /\d\d\d\d/}
   map.connect "/results/:year", :controller => "results", :action => "index", :requirements => {:year => /\d\d\d\d/}
   map.connect "/results/:discipline", :controller => "results"
+  map.connect "/results/", :controller => "results"
 
-  map.connect "/schedule/list/:discipline", :controller => "schedule", :action => "list"
-  map.connect "/schedule/:year/list/:discipline", :controller => "schedule", :action => "list", :requirements => {:year => /\d\d\d\d/}
-  map.connect "/schedule/:year/list", :controller => "schedule", :action => "list", :requirements => {:year => /\d\d\d\d/}
+  map.connect "/schedule/calendar/:discipline", :controller => "schedule", :action => "calendar"
+  map.connect "/schedule/:year/calendar/:discipline", :controller => "schedule", :action => "calendar", :requirements => {:year => /\d\d\d\d/}
+  map.connect "/schedule/:year/calendar", :controller => "schedule", :action => "calendar", :requirements => {:year => /\d\d\d\d/}
+  map.connect "/schedule/calendar", :controller => "schedule", :action => "calendar"
   map.connect "/schedule/:year/:discipline", :controller => "schedule", :action => "index", :requirements => {:year => /\d\d\d\d/}
   map.connect "/schedule/:year", :controller => "schedule", :action => "index", :requirements => {:year => /\d\d\d\d/}
-  map.connect "/schedule/list", :controller => "schedule", :action => "list"
   map.connect "/schedule/:discipline", :controller => "schedule", :action => "index"
-  map.connect "/schedule/", :controller => "schedule", :action => "list"
+  map.connect "/schedule/", :controller => "schedule"
   
   map.resources :subscriptions, :collection => { :subscribed => :get }
 

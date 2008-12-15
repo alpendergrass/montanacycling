@@ -13,10 +13,6 @@ class ResultsController < ApplicationController
     @events = Set.new
     @discipline = Discipline[params['discipline']]
     if @discipline
-      discipline_names = [@discipline.name]
-      if @discipline == Discipline['road']
-        discipline_names << 'Circuit'
-      end
       @events = @events + Event.find(
           :all,
           :include => :standings, 
@@ -25,8 +21,8 @@ class ResultsController < ApplicationController
               and events.id in (select event_id from standings where events.date between ? and ?)
               and events.parent_id is null
               and events.type <> 'WeeklySeries'
-              and (standings.discipline in (?) or (standings.discipline is null and events.discipline in (?)))
-              }, first_of_year, last_of_year, first_of_year, last_of_year, discipline_names, discipline_names],
+              and (standings.discipline = ? or (standings.discipline is null and events.discipline = ?))
+              }, first_of_year, last_of_year, first_of_year, last_of_year, @discipline.name, @discipline.name],
           :order => 'events.date desc'
       )
 
@@ -35,23 +31,23 @@ class ResultsController < ApplicationController
           :include => [:standings, :events],
           :conditions => [%Q{
               events.date between ? and ? 
-              and events_events.id in (select event_id from standings where discipline in (?) or (discipline is null and events.discipline in (?)))
+              and events_events.id in (select event_id from standings where discipline = ? or (discipline is null and events.discipline = ?))
               and events.type <> 'WeeklySeries'
-              }, first_of_year, last_of_year, discipline_names, discipline_names],
+              }, first_of_year, last_of_year, @discipline.name, @discipline.name],
           :order => 'events.date desc'
       )
 
-      @weekly_series = WeeklySeries.find(
-          :all,
-          :include => [:standings, :events],
-          :conditions => [%Q{
-              events.date between ? and ? 
-              and (events.id in (select event_id from standings) 
-                   or events_events.id in (select event_id from standings))
-              and (standings.discipline in (?) or (standings.discipline is null and events.discipline in (?)))
-              }, first_of_year, last_of_year, discipline_names, discipline_names],
-          :order => 'events.date desc'
-      )
+#      @weekly_series = WeeklySeries.find(
+#          :all,
+#          :include => [:standings, :events],
+#          :conditions => [%Q{
+#              events.date between ? and ?
+#              and (events.id in (select event_id from standings)
+#                   or events_events.id in (select event_id from standings))
+#              and (standings.discipline = ? or standings.discipline is null and events.discipline = ?))
+#              }, first_of_year, last_of_year, discipline_name, discipline_name],
+#          :order => 'events.date desc'
+#      )
 
     else
       @events = @events + Event.find(
@@ -77,20 +73,21 @@ class ResultsController < ApplicationController
           :order => 'events.date desc'
       )
 
-      @weekly_series = WeeklySeries.find(
-          :all,
-          :include => [:standings, :events],
-          :conditions => [%Q{
-              events.date between ? and ? 
-              and (events.id in (select event_id from standings) 
-                   or events_events.id in (select event_id from standings))
-              }, first_of_year, last_of_year],
-          :order => 'events.date desc'
-      )
+#      @weekly_series = WeeklySeries.find(
+#          :all,
+#          :include => [:standings, :events],
+#          :conditions => [%Q{
+#              events.date between ? and ?
+#              and (events.id in (select event_id from standings)
+#                   or events_events.id in (select event_id from standings))
+#              }, first_of_year, last_of_year],
+#          :order => 'events.date desc'
+#      )
     end
     
     @events = @events.to_a
     @events.reject! {|event| event.is_a?(Competition) || (ASSOCIATION.show_only_association_sanctioned_races_on_calendar && event.sanctioned_by != ASSOCIATION.short_name)}
+    @discipline_names = Discipline.find_all_names
   end
   
   def event

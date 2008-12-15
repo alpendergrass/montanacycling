@@ -18,7 +18,6 @@
   <div class="nav" id="top">
     <h1><%= link_to ASSOCIATION.name, :controller => 'home', :action => 'index' %></h1>
   </div>
-  <%#= tabnav :main %>
   <% tabnav :main do %>
     <%= yield %>
   <% end %>
