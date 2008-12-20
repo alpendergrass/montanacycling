@@ -24,7 +24,13 @@ render_tabnav :main,
 #      t.links_to :controller => name
 #    end
 #  end
-         
+
+  if @year.blank?
+    year = Date.today.year
+  else
+    year = @year
+  end
+
   add_tab do |t|
     t.named 'Home'
     t.titled 'Home Page'
@@ -33,12 +39,22 @@ render_tabnav :main,
   add_tab do |t|
     t.named 'Schedule'
     t.titled 'Racing Schedule'
-    t.links_to :controller => 'schedule', :year => Date.today.year
+    t.links_to :controller => 'schedule', :year => year
   end
   add_tab do |t|
     t.named 'Results'
     t.titled 'Rase Results'
-    t.links_to :controller => 'results', :year => Date.today.year
+    t.links_to :controller => 'results', :year => year
+  end
+  add_tab do |t|
+    t.named 'Racers'
+    t.titled 'Racer Results'
+    t.links_to :controller => 'racers', :year => year
+  end
+  add_tab do |t|
+    t.named 'Teams'
+    t.titled 'Team Results'
+    t.links_to :controller => 'teams', :year => year
   end
   #  
   # you can use restful routes with:

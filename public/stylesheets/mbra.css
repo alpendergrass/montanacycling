@@ -255,6 +255,7 @@ td input
   margin-right: 8px;
 }
 
+/*
 a
 {
   color: black;
@@ -287,7 +288,7 @@ a.image:hover, a.anchor:hover, a.ad:hover, a.home_page_photo:hover, a.image:hove
   text-decoration: none;
   background-color: transparent;
 }
-
+*/
 table.base div.editable a:hover {
   color: black;
   background-color: #FFFEE2;
@@ -874,8 +875,7 @@ table.post td
 }
 
 div.tabs {
-  padding-bottom: 20px;
-  text-align: center;
+  text-align: right;
 }
 
 .message

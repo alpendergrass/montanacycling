@@ -1,9 +1,9 @@
 <% @page_title = "Results: #{@year}" %>
 
-<%= tabs do |tabs|
-    tabs.add('2008', :controller => 'results', :year => nil)
-    tabs.add('2007', :controller => 'results', :year => 2007)
-  end  %>
+<%- @years = Event.find_all_years -%>
+<%- if @years.size > 1 -%>
+  <%= render :partial => "schedule/years",  :locals => { :years => @years } %>
+<%- end -%>
 
 <%= tabnav :results_disciplines %>
 
