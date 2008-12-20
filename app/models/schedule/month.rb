@@ -14,6 +14,7 @@ module Schedule
       @year = year
       @month = month
       @name = Date::MONTHNAMES[month]
+      @name_abbr = Date::ABBR_MONTHNAMES[month]
       @weeks = []
       @date = Date.new(year, month, 1)
       day = monday_of_week(@date)
@@ -24,6 +25,11 @@ module Schedule
       end
     end
     
+    def name_abbr
+      @name_abbr
+    end
+
+
     # Monday of this week's day as a number
     def monday_of_week(day)
       until day.wday == 0

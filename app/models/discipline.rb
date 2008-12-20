@@ -69,6 +69,10 @@ class Discipline < ActiveRecord::Base
       [name]
     end
   end
+
+  def pretty_name
+    (name.gsub('_', " ").gsub(/\b\w/) {|s| s.upcase })
+  end
     
   def to_param
     @param || @param = name.underscore.gsub(' ', '_')

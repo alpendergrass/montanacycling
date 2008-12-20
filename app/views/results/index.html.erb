@@ -1,29 +1,13 @@
 <% @page_title = "Results: #{@year}" %>
 
-<table class="base">
-  <tr>
-    <td>
-<%= tabs do |tabs|
-    tabs.add('2008', :controller => 'results', :year => nil)
-    tabs.add('2007', :controller => 'results', :year => 2007)
-  end  %>
+<%- @years = Event.find_all_years -%>
+<%- if @years.size > 1 -%>
+  <%= render :partial => "schedule/years",  :locals => { :years => @years } %>
+<%- end -%>
 
-<%= tabs do |tabs|
-    tabs.add('All', :discipline => nil)
-    tabs.add('Road', :discipline => 'road')
-    tabs.add('Criterium', :discipline => 'criterium')
-    tabs.add('Time Trial', :discipline => 'time_trial')
-    tabs.add('Track', :discipline => 'track')
-    tabs.add('Cyclocross', :discipline => 'cyclocross')
-    tabs.add('Mountain Bike (XC)', :discipline => 'mountain_bike')
-    tabs.add('Downhill', :discipline => 'downhill')
-  end  %>
+<%= tabnav :results_disciplines %>
 
-    </td>
-  </tr>
-</table>
-
-<p>
+<br/>
 
 <table class="base">
   <caption><%= @year %> Results</caption>
@@ -35,6 +19,6 @@
   </tr>
       <% end %>
     <% else %>
-  <tr><td>Results will be posted when available</td></tr>
+  <tr><td>No results have been posted.</td></tr>
     <%- end -%>
 </table>

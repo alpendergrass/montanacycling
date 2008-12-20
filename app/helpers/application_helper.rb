@@ -181,7 +181,7 @@ class Tabs
     table_class = "tabs"
     table_class = "tabs_solo" if @tabs.size < 2
     html = <<HTML
-<div style="text-align: center;">
+<div class="tabs">
   <table class="#{table_class}">
     <tr>
 HTML

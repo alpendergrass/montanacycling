@@ -6,10 +6,10 @@ class ScheduleController < ApplicationController
     session :off
     caches_page :index, :list
 
-    # Default calendar format
+    # Default format
+    # List of events -- one line per event
     # === Params
     # * year: default to current year
-    # * discipline
     # === Assigns
     # * year
     # * schedule: instance of year's Schedule::Schedule
@@ -17,13 +17,14 @@ class ScheduleController < ApplicationController
        collect_schedule_data
     end
 
-    # List of events -- one line per event
+    # calendar format
     # === Params
     # * year: default to current year
+    # * discipline
     # === Assigns
     # * year
     # * schedule: instance of year's Schedule::Schedule
-    def list
+    def calendar
        collect_schedule_data
     end
    
