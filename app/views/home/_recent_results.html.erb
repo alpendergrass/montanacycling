@@ -3,7 +3,7 @@
   <tr><th></th></tr>
   <%- for standings in @recent_results -%>
   <tr>
-    <td><%= link_to standings.full_name, :only_path  => false, :controller => 'results', :action => 'event', :id => standings.event_id %></td>
+    <td><%= link_to standings.full_name, :controller => 'results', :action => 'event', :id => standings.event_id %></td>
   </tr>
   <%- end -%>
   <%- if @recent_results.empty? -%>
@@ -13,6 +13,6 @@
   <%- end -%>
   <tr>
     <td style="padding-top: 16px;"><%= link_to 'More &hellip;',
-  :only_path  => false, :controller => 'results' %></td>
+  :controller => 'results' %></td>
   </tr>
 </table>
