@@ -1,9 +1,7 @@
 <% @page_title = "Teams" %>
 
-<p align="left">These are OBRA registered teams in the Oregon/SW Washington region.</p>
-
-<p align="left">A list of <%= link_to "clubs rides", "http://#{STATIC_HOST}/rides.html", :class => "obvious" %> is available if you're looking for a group ride.</p>
-
+<%= tabnav :results_disciplines %>
+<br/><br/>
 <table class="base" id="teams">
   <caption>Teams</caption>
   <tr>
@@ -17,7 +15,7 @@
   
   <% if @teams.empty? %>
   <tr>
-    <td colspan="5">No members teams visible</td>
+    <td colspan="5">No member teams visible</td>
   </tr>
   <% end -%>
 </table>

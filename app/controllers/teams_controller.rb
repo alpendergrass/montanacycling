@@ -1,6 +1,8 @@
 class TeamsController < ApplicationController
   def index
-    @teams = Team.find(:all, :conditions => { :member => true, :show_on_public_page => true })
+    #@teams = Team.find(:all, :conditions => { :member => true, :show_on_public_page => true })
+    @teams = Team.find(:all)
+    @discipline_names = Discipline.find_all_names
   end
   
   def show
@@ -13,5 +15,7 @@ class TeamsController < ApplicationController
     @results.reject! do |result|
       result.race.standings.event.is_a?(Competition)
     end
+    @discipline_names = Discipline.find_all_names
+    #alptodo: we need to cache discipline_names
   end
 end

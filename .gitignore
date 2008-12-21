@@ -10,5 +10,6 @@ doc/api
 doc/app
 doc/plugins
 nbproject/*
+montanacycling.tmproj
 public/dispatch.fcgi
 public/dispatch.cgi
