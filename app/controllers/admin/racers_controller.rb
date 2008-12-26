@@ -46,9 +46,9 @@ class Admin::RacersController < Admin::RecordEditor
       @racers = @racers.paginate(:page => params[:page])
       @name = ''
     end
-    if @racers.size == RESULTS_LIMIT
-      flash[:notice] = "First #{RESULTS_LIMIT} racers"
-    end
+#    if @racers.size == RESULTS_LIMIT
+#      flash[:notice] = "First #{RESULTS_LIMIT} racers"
+#    end
   end
   
   def export

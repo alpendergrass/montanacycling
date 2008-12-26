@@ -1,0 +1,21 @@
+<tr class="<%= cycle("even", "odd") %>" id="racer_<%= racer.id %>_row" style="position: relative;">
+  <td class="name" style="position: relative;">
+    <%- @racer = racer -%>
+      <%= link_to racer.name, :controller => '/results', :action => 'racer', :id => racer.id %>
+  </td>
+  <td class="aliases">
+    <%= truncate(racer.aliases.collect{ |a| a.name }.join(', '), 200) %>
+  </td>
+  <td class="right">
+    <%= racer.road_category %>
+  </td>
+  <td class="right">
+    <%= racer.mtb_category %>
+  </td>
+  <!--ttd class="right">
+    <%# racer.dh_number %>
+  </td-->
+  <td class="right">
+    <%= racer.ccx_category %>
+  </td>
+</tr>
