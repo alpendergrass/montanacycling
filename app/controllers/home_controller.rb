@@ -9,10 +9,10 @@ class HomeController < ApplicationController
   def index
     #@upcoming_events = UpcomingEvents.find_all
     #alphere to fix the above I had to create records in the disciplines table for each discipline hard coded in def disciplines_for(discipline)
-    @upcoming_events = UpcomingEvents.find_all(:weeks => 12)
+    @upcoming_events = UpcomingEvents.find_all(:weeks => 4)
     
-    # cutoff = Date.today - 14
-    cutoff = '2008-01-01'
+    cutoff = Date.today - 28
+#    cutoff = '2008-01-01'
     @recent_results = Standings.find(
       :all,
       :include => :event,
