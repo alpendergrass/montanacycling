@@ -1,5 +1,5 @@
 <table class="base" id="home_page_results">
-  <caption><%= link_to 'Results', :only_path  => false, :controller => 'results' %></caption>
+  <caption><%= link_to 'Results', :controller => 'results' , :year => Date.today.year %></caption>
   <tr><th></th></tr>
   <%- for standings in @recent_results -%>
   <tr>
@@ -13,6 +13,6 @@
   <%- end -%>
   <tr>
     <td style="padding-top: 16px;"><%= link_to 'More &hellip;',
-  :controller => 'results' %></td>
+  :controller => 'results', :year => Date.today.year %></td>
   </tr>
 </table>

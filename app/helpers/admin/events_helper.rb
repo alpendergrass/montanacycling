@@ -11,8 +11,8 @@ module Admin::EventsHelper
   end
   
   def upcoming_events_table(upcoming_events, caption = nil, footer = nil)
-    caption ||= link_to("Schedule", :controller => 'schedule')
-    footer ||= link_to('More &hellip;', :controller => 'schedule')
+    caption ||= link_to("Schedule", :controller => 'schedule', :year => Date.today.year)
+    footer ||= link_to('More &hellip;', :controller => 'schedule', :year => Date.today.year)
     render :partial => 'events/upcoming', :locals => { :upcoming_events => upcoming_events, :caption => caption, :footer => footer }
   end
   
