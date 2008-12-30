@@ -16,14 +16,16 @@
 
 render_tabnav :disciplines, 
               :generate_css => false do
-    
-				  if @year.blank?
-				    year = Date.today.year
-				  else
-				    year = @year
-				  end
 
-  for discipline_name in @discipline_names
+  if @year.blank?
+    year = Date.today.year
+  else
+    year = @year
+  end
+
+  discipline_names = Discipline.find_all_names
+
+  for discipline_name in discipline_names
     if discipline_name.to_s == ''
       add_tab do |t|
         t.named 'All'
@@ -35,20 +37,23 @@ render_tabnav :disciplines,
       pretty_name = (discipline_name.gsub('_', " ").gsub(/\b\w/) {|s| s.upcase })
       add_tab do |t|
         t.named pretty_name
-        t.titled pretty_name
+        t.titled pretty_name + " Results"
         t.links_to :controller => 'results', :discipline => discipline_name, :year => year
       end
     end
   end
+
   add_tab do |t|
     t.named 'Teams'
     t.titled 'Team Results'
     t.links_to :controller => 'teams'
   end
+
   add_tab do |t|
     t.named 'Racers'
     t.titled 'Racer Results'
     t.links_to :controller => 'racers'
   end
+
 end 
 %>

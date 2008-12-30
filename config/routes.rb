@@ -93,6 +93,10 @@ ActionController::Routing::Routes.draw do |map|
   map.connect "/schedule/:discipline", :controller => "schedule", :action => "index"
   map.connect "/schedule/", :controller => "schedule"
   
+  map.connect "/articles/:article_category_id", :controller => "articles"
+  map.connect "/articles/:id", :controller => "articles", :action => "show"
+  #map.resources :articles
+
   map.resources :subscriptions, :collection => { :subscribed => :get }
 
   map.track "/track", :controller => "track"
@@ -101,7 +105,7 @@ ActionController::Routing::Routes.draw do |map|
   map.connect '', :controller => "home"
 
   map.connect "/:controller", :action => "index"
-  map.connect "/:controller/:id", :action => "show", :requirements => {:id => /\d+/}
+  map.connect "/:controller/:article_title/:id", :action => "show", :requirements => {:id => /\d+/}
 
   # Install the default route as the lowest priority.
   map.connect ':controller/:action/:id'

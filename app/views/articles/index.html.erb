@@ -1,0 +1,12 @@
+<% @page_title = "Articles" %>
+
+<%= tabnav :article_categories %>
+<br/>
+<table>
+  <% for article in @articles %>
+    <tr>
+      <td><h3><%= link_to "#{article.title}", { :action => 'show', :article_title => article.title, :id => article } %></h3>
+      <p><%= h(truncate(article.body, 100)) %></p></td>
+    </tr>
+  <% end %>
+</table>

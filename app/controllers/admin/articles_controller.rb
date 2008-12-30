@@ -34,6 +34,7 @@ class Admin::ArticlesController < ApplicationController
   # GET /articles/new.xml
   def new
     @article = Article.new
+    @article_category = ArticleCategory.find( :first )
 
     respond_to do |format|
       format.html # new.html.erb
@@ -44,6 +45,7 @@ class Admin::ArticlesController < ApplicationController
   # GET /articles/1/edit
   def edit
     @article = Article.find(params[:id])
+    @article_category = ArticleCategory.find(@article.id)
   end
 
   # POST /articles
@@ -54,7 +56,7 @@ class Admin::ArticlesController < ApplicationController
     respond_to do |format|
       if @article.save
         flash[:notice] = 'Article was successfully created.'
-        format.html { redirect_to([:admin, @article]) }
+        format.html { redirect_to(admin_articles_url) }
         format.xml  { render :xml => @article, :status => :created, :location => @article }
       else
         format.html { render :action => "new" }
@@ -71,7 +73,7 @@ class Admin::ArticlesController < ApplicationController
     respond_to do |format|
       if @article.update_attributes(params[:article])
         flash[:notice] = 'Article was successfully updated.'
-        format.html { redirect_to([:admin, @article]) }
+        format.html { redirect_to(admin_articles_url) }
         format.xml  { head :ok }
       else
         format.html { render :action => "edit" }

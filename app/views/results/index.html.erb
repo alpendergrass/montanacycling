@@ -1,7 +1,6 @@
 <% @page_title = "Results: #{@year}" %>
 
 <%= tabnav :results_disciplines %>
-<br/>
 <%- @years = Event.find_all_years -%>
 <%- if @years.size > 1 -%>
   <%= render :partial => "schedule/years",  :locals => { :years => @years } %>

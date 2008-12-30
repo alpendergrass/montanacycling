@@ -11,8 +11,6 @@ class RacersController < ApplicationController
       @name = ''
     end
 
-    @discipline_names = Discipline.find_all_names
-    #alptodo: we need to cache discipline_names
   end
 
 end

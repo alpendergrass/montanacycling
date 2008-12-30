@@ -8,6 +8,7 @@
     <th>Parent ID</th>
     <th>Name</th>
     <th>Position</th>
+    <th>Description</th>
   </tr>
 <p><%= link_to 'New article category', new_admin_article_category_path %></p>
 
@@ -17,6 +18,7 @@
     <td><%=h article_category.parent_id %></td>
     <td><%=h article_category.name %></td>
     <td><%=h article_category.position %></td>
+    <td><%=h article_category.description %></td>
     <td><%= link_to 'Edit', edit_admin_article_category_path(article_category) %></td>
     <td><%= link_to 'Destroy', [:admin, article_category], :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>

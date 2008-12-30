@@ -4,5 +4,6 @@
   <%=render :partial => "form", :locals => { :f => f, :action_button => "Update" } %>
 <% end %>
 
-<%= link_to 'Show', [:admin, @article] %> |
+<%= link_to 'Destroy', [:admin, @article], :confirm => 'Are you sure?', :method => :delete %>
+ | 
 <%= link_to 'Back', admin_articles_path %>

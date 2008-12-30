@@ -12,16 +12,13 @@
 
   <p>
     <%= f.label :category %><br />
-    <%= select("article", "article_category_id", ArticleCategory.find(:all).collect{ |c| [ c.name, c.id ] } ) %>
+    <%= tree_select(ArticleCategory.find(:all, :conditions => "parent_id = 0"),
+                        'article', 'article_category_id', @article) %>
   </p>
 
   <p>
     <%= f.label :heading %><br />
     <%= f.text_field :heading %>
-  </p>
-  <p>
-    <%= f.label :description %><br />
-    <%= f.text_field :description %>
   </p>
   <p>
     <%= f.label :body %><br />

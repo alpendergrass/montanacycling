@@ -175,6 +175,65 @@
 	z-index: 2;
 }
 
+.article_categories_tabnav {
+	color: #000;
+	border-bottom: 2px solid black;
+	margin: 13px 0px 0px 0px;
+	padding: 0px;
+	z-index: 1;
+	padding-left: 10px }
+
+.article_categories_tabnav ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+.article_categories_tabnav li {
+	display: inline;
+	overflow: hidden;
+	list-style-type: none; }
+
+.article_categories_tabnav li span.disabled {
+        color: #888888;
+        background: #FAFAFA;
+        border: 2px solid #DDDDDD;
+        border-bottom: none;
+        padding: 2px 5px 0px 5px;
+        margin: 0;
+        text-decoration: none;}
+
+.article_categories_tabnav a, article_categories_tabnav a.active {
+	color: #000000;
+	background: #EEEEEE;
+	font-weight: bold;
+	border: 2px solid black;
+	padding: 2px 5px 0px 5px;
+	margin: 0;
+	text-decoration: none; }
+
+.article_categories_tabnav a.active {
+	background: #FFFFFF;
+	border-bottom: 3px solid #FFFFFF; }
+
+.article_categories_tabnav a:hover {
+	color: #FFFFFF;
+	background: #CCCCCC; }
+
+.article_categories_tabnav a:visited {
+	color: #000000; }
+
+.article_categories_tabnav a.active:hover {
+	background: #FFFFFF;
+	color: #000000; }
+
+.article_categories_tabnav_content {
+	background: #FFFFFF;
+	padding: 20px;
+	border: 2px solid black;
+	border-top: none;
+	z-index: 2;
+}
+
 html
 {
   background-color: white;
@@ -221,7 +280,7 @@ table
 
 td
 {
-  text-align: center;
+  text-align: left;
   vertical-align: top;
   color: black;
   padding: 5px;

@@ -1,11 +1,11 @@
 <% @page_title = "Schedule: #{@year}" %>
 
+<%= tabnav :schedule_disciplines %>
 <%#alphere links_to_years @discipline %>
 <%- @years = Event.find_all_years -%>
 <%- if @years.size > 1 -%>
   <%= render :partial => "years",  :locals => { :years => @years } %>
 <%- end -%>
-<%= tabnav :schedule_disciplines %>
 <%#alphere = render :partial => "disciplines", :locals => { :year => @year } %>
 
 <br/>

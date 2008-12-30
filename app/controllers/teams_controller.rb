@@ -15,7 +15,5 @@ class TeamsController < ApplicationController
     @results.reject! do |result|
       result.race.standings.event.is_a?(Competition)
     end
-    @discipline_names = Discipline.find_all_names
-    #alptodo: we need to cache discipline_names
   end
 end

@@ -46,6 +46,18 @@ render_tabnav :main,
     t.titled 'Rase Results'
     t.links_to :controller => 'results', :year => year
   end
+
+  article_categories = ArticleCategory.find(:all, :conditions => ["parent_id = 0"] )
+
+  for article_category in article_categories
+    add_tab do |t|
+      t.named article_category.name
+      t.titled article_category.name
+      #t.links_to :controller => 'articles', :article_category_id => article_category.id, :parent_id => article_category.id
+      t.links_to :controller => 'articles', :article_category_id => article_category.id
+    end
+  end
+
   #  
   # you can use restful routes with:
   #
