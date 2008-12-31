@@ -21,7 +21,7 @@ if article_categories.any?
       add_tab do |t|
         t.named "General"
         t.titled "General Information"
-        t.links_to :controller => 'articles', :article_category_id => @top_level_article_category_id
+        t.links_to :controller => 'articles', :id_type => "article_category", :article_category_id => @top_level_article_category_id
       end
     end
     for article_category in article_categories
@@ -29,7 +29,7 @@ if article_categories.any?
         add_tab do |t|
           t.named article_category.name
           t.titled article_category.description
-          t.links_to :controller => 'articles', :article_category_id => article_category.id
+          t.links_to :controller => 'articles', :id_type => "article_category", :article_category_id => article_category.id
         end
       end
     end

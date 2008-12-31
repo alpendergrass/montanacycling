@@ -1,18 +1,18 @@
 <table class="base" id="home_page_results">
   <caption><%= link_to 'Results', :controller => 'results' , :year => Date.today.year %></caption>
-  <tr><th></th></tr>
   <%- for standings in @recent_results -%>
   <tr>
-    <td><%= link_to standings.full_name, :controller => 'results', :action => 'event', :id => standings.event_id %></td>
+    <td><h4><%= link_to standings.full_name, :controller => 'results', :action => 'event', :id => standings.event_id %></h4></td>
   </tr>
   <%- end -%>
   <%- if @recent_results.empty? -%>
   <tr>
-    <td>No results in the last 4 weeks</td>
+    <td><h4>No results in the last 4 weeks</h4></td>
   </tr>
   <%- end -%>
   <tr>
-    <td style="padding-top: 16px;"><%= link_to 'More &hellip;',
-  :controller => 'results', :year => Date.today.year %></td>
+    <td>
+      <i><%= link_to 'More &hellip;', :controller => 'results', :year => Date.today.year %></i>
+    </td>
   </tr>
 </table>

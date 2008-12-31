@@ -5,7 +5,7 @@
 <table>
   <% for article in @articles %>
     <tr>
-      <td><h3><%= link_to "#{article.title}", { :action => 'show', :article_title => article.title, :id => article } %></h3>
+      <td><h3><%= link_to "#{article.title}", { :action => 'show', :id => article } %></h3>
       <p><%= h(truncate(article.body, 100)) %></p></td>
     </tr>
   <% end %>

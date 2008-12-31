@@ -9,7 +9,7 @@
 
 
 <table class="base">
-  <caption><%= @year %> Results</caption>
+  <caption><%= @year %></caption>
     <% unless @events.empty? %> 
       <%- for event in @events.sort {|x, y| y.date <=> x.date} -%>
   <tr class="<%= cycle('even', 'odd') %>">

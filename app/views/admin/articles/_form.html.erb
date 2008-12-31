@@ -13,13 +13,9 @@
   <p>
     <%= f.label :category %><br />
     <%= tree_select(ArticleCategory.find(:all, :conditions => "parent_id = 0"),
-                        'article', 'article_category_id', @article) %>
+                        'article', 'article_category_id', @article, false) %>
   </p>
 
-  <p>
-    <%= f.label :heading %><br />
-    <%= f.text_field :heading %>
-  </p>
   <p>
     <%= f.label :body %><br />
     <%= f.text_area :body %>

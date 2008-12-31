@@ -20,16 +20,17 @@ module AdminApplicationHelper
     ret << "</li>" 
   end
 
-  def tree_select(categories, model, name, selected=0, level=0, init=true)
+  def tree_select(categories, model, name, selected=0, allow_root = true, level = 0, init = true)
     html = ""
-    # The "Root" option is added
-    # so the user can choose a parent_id of 0...not (alp)
     if init
-        # Add "Root" to the options...not (alp)
-        html << "<select name=\"#{model}[#{name}]\" id=\"#{model}_#{name}\">\n"
-#        html << "\t<option value=\"0\""
-#        html << " selected=\"selected\"" if selected.parent_id == 0
-#        html << ">Root</option>\n"
+      html << "<select name=\"#{model}[#{name}]\" id=\"#{model}_#{name}\">\n"
+      if allow_root
+        # The "Root" option is added
+        # so the user can choose a parent_id of 0
+        html << "\t<option value=\"0\""
+        html << " selected=\"selected\"" if selected.parent_id == 0
+        html << ">Root</option>\n"
+      end
     end
 
     if categories.length > 0
@@ -45,7 +46,7 @@ module AdminApplicationHelper
           html << ' selected="selected"' if cat.id == selected.parent_id
         end
         html << ">#{cat.name}</option>\n"
-        html << tree_select(cat.children, model, name, selected, level, false)
+        html << tree_select(cat.children, model, name, selected, allow_root, level, false)
       end
     end
     html << "</select>\n" if init

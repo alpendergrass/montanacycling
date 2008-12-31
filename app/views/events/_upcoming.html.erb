@@ -2,15 +2,20 @@
   <caption><%= caption %></caption>
 
   <%- if upcoming_events.empty? -%>
-  <tr><th></th></tr>
-  <tr><td>No upcoming events in the next <%= pluralize(upcoming_events.weeks, "week") %> </td></tr>
+    <tr>
+      <td>
+        <h4>No upcoming events in the next <%= pluralize(upcoming_events.weeks, "week") %></h4>
+      </td>
+    </tr>
   <%- end -%>
 
   <%- upcoming_events.disciplines.each do |discipline| -%>
-    <%= discipline_upcoming_events(discipline, upcoming_events) %>
+    <h4><%= discipline_upcoming_events(discipline, upcoming_events) %></h4>
   <% end -%>
 
   <tr>
-    <td colspan="2"><%= footer %></td>
+    <td colspan="2">
+      <i><%= footer %></i>
+    </td>
   </tr>
 </table>
