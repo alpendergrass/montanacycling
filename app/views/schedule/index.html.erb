@@ -3,9 +3,9 @@
 <%= tabnav :schedule_disciplines %>
 <%#alphere links_to_years @discipline %>
 <%- @years = Event.find_all_years -%>
-<%- if @years.size > 1 -%>
+<%#- if @years.size > 1 -%>
   <%= render :partial => "years",  :locals => { :years => @years } %>
-<%- end -%>
+<%#- end -%>
 <%#alphere = render :partial => "disciplines", :locals => { :year => @year } %>
 
 <br/>
@@ -26,7 +26,7 @@
       <th>Location</th>
     </tr>
     <%- for month in @schedule.months -%>
-      <%- sql = "Select COUNT(*) from events where MONTH(date)= #{month.date.month}" %>
+      <%- sql = "Select COUNT(*) from events where MONTH(date)= #{month.date.month} and YEAR(date) = #{@year}" %>
       <%- sql = sql << " and discipline = '#{@discipline.name}'" unless @discipline.blank?  %>
       <%- if Event.count_by_sql(sql) > 0 -%>
         <tr><th><%= month.name %></th></tr>
