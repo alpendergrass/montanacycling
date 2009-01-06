@@ -2,7 +2,7 @@ module ScheduleHelper
   def links_to_years(discipline = nil)
     #alphere not used, using partial instead to do tabs
     years = Event.find_all_years
-    return unless years.size > 1
+    #alphere return unless years.size > 1
     
     links = Builder::XmlMarkup.new(:indent => 2)
     links.div(:class => 'horizontal_links') {
