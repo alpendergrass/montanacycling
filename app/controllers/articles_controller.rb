@@ -1,6 +1,6 @@
 class ArticlesController < ApplicationController
   def index
-    @articles = Article.find(:all, :conditions => ["article_category_id = ? and display = true", params[:article_category_id]])
+    @articles = Article.find(:all, :conditions => ["article_category_id = ? and display = true", params[:article_category_id]], :order => "title")
     
     # Determine what category id to use to generate sub catg tabs
     @top_level_article_category_id = ArticleCategory.find(params[:article_category_id]).parent_id

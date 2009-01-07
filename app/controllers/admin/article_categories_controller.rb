@@ -6,7 +6,7 @@ class Admin::ArticleCategoriesController < ApplicationController
   # GET /article_categories
   # GET /article_categories.xml
   def index
-    @article_categories = ArticleCategory.find(:all)
+    @article_categories = ArticleCategory.find(:all, :order => "parent_id, position")
 
     respond_to do |format|
       format.html # index.html.erb

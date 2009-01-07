@@ -7,9 +7,9 @@ class Admin::ArticlesController < ApplicationController
   # GET /articles.xml
   def index
     if params[:article_category_id].nil?
-      @articles = Article.find(:all)
+      @articles = Article.find(:all, :order => "title")
     else
-      @articles = Article.find(:all, :conditions => ["article_category_id = ?", params[:article_category_id]])
+      @articles = Article.find(:all, :conditions => ["article_category_id = ?", params[:article_category_id]], :order => "title")
       params[:article_category_id] = nil
     end
 
