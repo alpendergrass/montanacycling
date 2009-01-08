@@ -52,7 +52,7 @@ render_tabnav :main,
   for article_category in article_categories
     add_tab do |t|
       t.named article_category.name
-      t.titled article_category.name
+      t.titled article_category.description
       t.links_to :controller => 'articles', :id_type => "article_category", :article_category_id => article_category.id
       #t.links_to :controller => 'articles', :article_category_id => article_category.id
     end
