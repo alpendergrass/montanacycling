@@ -16,4 +16,5 @@ config.action_controller.perform_caching             = false
 # Don't care if the mailer can't send
 config.action_mailer.raise_delivery_errors = false
 
-RAILS_HOST = "localhost:3000"
+#RAILS_HOST = "localhost:3000"
+STATIC_HOST = 'localhost:3000'
