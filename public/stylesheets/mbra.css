@@ -655,12 +655,12 @@ table.base th {
   line-height: 19px;
   height: 19px;
   color: black;
-  background-color: yellow;
+  background-color: khaki;
   background-repeat: repeat;
 }
 
 table.base tr.odd {
-  background-color: orange;
+  background-color: khaki;
 }
 
 table.base td {
