@@ -640,6 +640,13 @@ table#left_nav td.icon_padding {
   white-space: nowrap;  
 }
 
+.user_hint, td.user_hint, table.base td.user_hint
+{
+    font-size: 10px;
+    font-style: italic;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+
 td.left, table.base td.left
 {
   text-align: left;

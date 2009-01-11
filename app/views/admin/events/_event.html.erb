@@ -178,14 +178,6 @@
           <td class="field_label" width="100">Notes:</td>
           <td width="100%"><%= text_field 'event', 'notes', :style => 'width: 100%;' %></td>
         </tr>
-        <tr>
-          <td class="field_label" width="100">Flyer URL:</td>
-          <td width="100%"><%= text_field 'event', 'flyer', :style => 'width: 100%;' %></td>
-        </tr>
-        <tr>
-          <td width="100"></td>
-          <td width="100%" class="field_label" id="left"><%= check_box 'event', 'flyer_approved' %> Flyer Approved</td>
-        </tr>
       </table>
     </td>
     <td>
@@ -200,8 +192,26 @@
 	      </tr>
 	    </table>
    </td>
-    <td>
-      <!--table>
+   </tr>
+  <tr>
+    <td colspan="2">
+      <table>
+        <tr>
+          <td class="field_label" width="100">Flyer URL:</td>
+          <td width="100%"><%= text_field 'event', 'flyer', :style => 'width: 100%;' %></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td class="user_hint">If a local file, url should be "/documents/flyers/[year]/[file name]"</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><%= check_box 'event', 'flyer_approved' %> Flyer Approved</td>
+        </tr>
+      </table>
+    </td>
+   <!--td>
+      <table>
         <tr>
           <td class="field_label" width="100">Pre-Event Fees Paid:</td>
           <td width="100%"><%#= text_field 'event', 'pre_event_fees', :size => 9 %></td>
@@ -214,8 +224,8 @@
           <td class="field_label" width="100">Flyer Ad Paid:</td>
           <td width="100%"><%#= text_field 'event', 'flyer_ad_fee', :size => 9 %></td>
         </tr>
-      </table-->
-    </td>
+      </table>
+    </td-->
   </tr>
   <tr class="buttons">
     <td class="updatedon">
