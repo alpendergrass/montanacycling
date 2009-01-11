@@ -936,6 +936,9 @@ table.post td
 
 div.tabs {
   text-align: right;
+    font-size: 14px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 .message
