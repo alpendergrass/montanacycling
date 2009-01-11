@@ -1,9 +1,9 @@
 <tr>
   <td class="club_name">
-    <%= link_to(team.name, team_path(team)) -%>
+    <%= link_to(team.name, team_path(team)) %>
   </td>
-  <td>
-    <%= team.sponsors %>
+  <td class="club_name">
+    <%= "Yes" unless !team.member %>
   </td>
   <td>
     <%= link_to(team.website, team.website) unless team.website.blank? %>
