@@ -45,7 +45,7 @@ class Admin::ArticlesController < ApplicationController
   # GET /articles/1/edit
   def edit
     @article = Article.find(params[:id])
-    @article_category = ArticleCategory.find(@article.id)
+    @article_category = ArticleCategory.find(@article.article_category_id)
   end
 
   # POST /articles

@@ -4,6 +4,7 @@
   <tr>
     <th>Article</th>
     <th>Category</th>
+    <th>ID</th>
     <th>Position</th>
     <th>Display</th>
     <th>Last Update</th>
@@ -14,6 +15,7 @@
     <tr>
       <td><%= link_to "#{article.title}", edit_admin_article_path(article) %></td>
       <td><%= link_to "#{article.article_category.name}", { :action => 'index', :article_category_id => article.article_category.id } %></td>
+      <td><%=h article.id %></td>
       <td><%=h article.position %></td>
       <td><%=h article.display %></td>
       <td><%=h article.updated_at.to_formatted_s(:long) %></td>
