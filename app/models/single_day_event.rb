@@ -12,7 +12,8 @@ class SingleDayEvent < Event
              :class_name => 'Event'
   
   def SingleDayEvent.find_all_by_year(year, discipline = nil)
-    conditions = ["date between ? and ? and practice = ?", "#{year}-01-01", "#{year}-12-31", false]
+    #alphere: include practice events conditions = ["date between ? and ? and practice = ?", "#{year}-01-01", "#{year}-12-31", false]
+    conditions = ["date between ? and ?", "#{year}-01-01", "#{year}-12-31"]
 
     if ASSOCIATION.show_only_association_sanctioned_races_on_calendar
       conditions.first << " and sanctioned_by = ?"
