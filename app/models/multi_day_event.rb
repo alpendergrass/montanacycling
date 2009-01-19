@@ -90,7 +90,7 @@ class MultiDayEvent < Event
       :prize_list => first_event.prize_list,
       :sanctioned_by => first_event.sanctioned_by,
       :state => first_event.state,
-      :velodrome => first_event.velodrome
+#      :velodrome => first_event.velodrome
     }
     
     new_multi_day_event_class = MultiDayEvent.guess_type(events)
@@ -111,21 +111,24 @@ class MultiDayEvent < Event
   end
   
   def MultiDayEvent.guess_type(events)
+    #alphere: fix the following if/when needed...
+    #
     #length = events.last.date - events.first.date
     #if events.size - 1 == length or length == 0   
       #length = 0 means all events occur on one day a la Belt Omnium
       #alpto: this fails if a stage race spans more than one day but has more events than days
       # we could look for events that span contiguous days...but a long stage race could have a rest day...
       # If we get a stage name, let's call it a multiday event.
-    if events.first.stage_name
+    
+#    if events.first.stage_name
      MultiDayEvent
-    else
-      #if events.first.date.wday == 0 or events.first.date.wday == 6
-        #Series  #I don't think this event type has any meaning in MT
-      #else
-        WeeklySeries  #Club series races
-      #end
-    end
+#    else
+#      #if events.first.date.wday == 0 or events.first.date.wday == 6
+#        #Series  #I don't think this event type has any meaning in MT
+#      #else
+#        WeeklySeries  #Club series races
+#      #end
+#    end
   end
   
   def MultiDayEvent.same_name_and_year(event)

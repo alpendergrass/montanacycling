@@ -39,9 +39,9 @@
           <td class="field_label">Type:</td>
           <td><%= select 'event', 'type', 
             [['Single Event (stand-alone races, stages, a single series event)', 'SingleDayEvent'],
-               ['Multiday Event (stage races, omniums)', 'MultiDayEvent'], 
-               ['Weekend Series', 'Series'], 
-               ['Weeknight Series', 'WeeklySeries']] %>
+               ['Multiday Event (stage races, omniums)', 'MultiDayEvent']] %>
+               <%# ['Weekend Series', 'Series'],  %>
+               <%# ['Weeknight Series', 'WeeklySeries']] %>
                <%#(weekend events have full BAR points: Cross Crusade)#(weeknight, BAR points only for final) standings: PIR) %>
                </td>
         </tr>
@@ -233,7 +233,8 @@
       Updated: <%= @event.updated_at.to_formatted_s(:long) unless @event.updated_at.nil? %>
 	</td>
     <td class="right">
-	  <%= link_to_remote('Delete', {:url => { :action => "destroy_event", :id => @event.id }}, {:class => 'obvious'}) unless @event.new_record? %>&nbsp;&nbsp;
+<%= link_to 'Delete', { :action => :destroy_event, :id => @event }, :confirm => 'Are you sure?' unless @event.new_record? %>
+	  <%#= link_to_remote('Delete', {:url => { :action => "destroy_event", :id => @event.id }}, {:class => 'obvious'}) unless @event.new_record? %>&nbsp;&nbsp;
     </td>
   </tr>
 </table>

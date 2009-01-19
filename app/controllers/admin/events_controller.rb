@@ -70,7 +70,7 @@ class Admin::EventsController < ApplicationController
     if @event.save
       expire_cache
       flash[:notice] = "Created #{@event.name}"
-      redirect_to(:action => :new)
+      redirect_to(:controller => :schedule, :action => :index)
     else
       flash[:warn] = @event.errors.full_messages
       "new"
@@ -135,7 +135,9 @@ class Admin::EventsController < ApplicationController
       end
       
       if @event.errors.empty?
-        redirect_to(:action => :show, :id => params[:id])
+        flash[:notice] = "Updated #{@event.name}"
+#        redirect_to(:action => :show, :id => params[:id])
+        redirect_to(:controller => :schedule, :action => :index)
       else
         render(:action => :show)
       end
@@ -199,20 +201,20 @@ class Admin::EventsController < ApplicationController
   def destroy_event
     event = Event.find(params[:id])
     begin
-      event.destroy
-      expire_cache
-      flash[:notice] = "Deleted #{event.name}"
+      if event.has_children?
+        flash[:notice] = "Event has child event(s). You must delete any children before deleting this event."
+        redirect_to(:action => :show, :id => params[:id])
+      else
+        event.destroy
+        expire_cache
+        flash[:notice] = "Deleted #{event.name}"
+        redirect_to(:controller => "/admin/schedule", :action => "index", :year => event.date.year)
+      end
     rescue  Exception => error
       stack_trace = error.backtrace.join("\n")
       logger.error("#{error}\n#{stack_trace}")
       flash[:notice] =  "Could not delete #{event.name}"
-    end
-    render :update do |page|
-      page.redirect_to(
-          :controller => "/admin/schedule", 
-          :action => "index",
-          :year => event.date.year
-        )      
+      redirect_to(:action => :show, :id => params[:id])
     end
   end
   

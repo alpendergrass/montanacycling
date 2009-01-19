@@ -291,6 +291,15 @@ class Event < ActiveRecord::Base
     @multi_day_event_children_with_no_parent
   end
     
+  def has_children?
+#    if Event.count_by_sql "SELECT COUNT(*) FROM events WHERE parent_id = #{self.id}" > 0
+    if Event.count(:conditions => "parent_id = #{self.id}") > 0
+      true
+    else
+      false
+    end
+  end
+
   def missing_parent
     nil
   end
