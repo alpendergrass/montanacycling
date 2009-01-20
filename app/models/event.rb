@@ -64,7 +64,7 @@ class Event < ActiveRecord::Base
       end
     end
     if self.sanctioned_by.blank?
-      self.sanctioned_by = ASSOCIATION.short_name
+      self.sanctioned_by = DEFAULT_SANCTIONING_ORGANIZATION
     end
   end
 
