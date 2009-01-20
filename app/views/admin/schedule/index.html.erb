@@ -76,7 +76,8 @@
             <div class="number  "><%= day.day_of_month -%></div>
             <%- for event in day.events -%>
               <%- event_name = event.full_name -%>
-              <div class="event"><%= link_to event_name, :controller => 'events', :action => 'show', :id => event %></div>
+              <div class="event"><%= link_to event_name, :controller => 'events', :action => 'show', :id => event %> 
+              <%- if event.type == "MultiDayEvent"-%> (parent event) <%- end %></div>
             <%- end -%>
           <%- end -%>
           </td>
