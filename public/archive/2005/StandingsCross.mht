@@ -1,0 +1,2297 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/AA6ACAD3/StandingsCross.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 11">
+<link rel=3DFile-List href=3D"StandingsCross_files/filelist.xml">
+<style id=3D"MBRA Cross Standings_16747_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl2216747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl2316747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2416747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl2516747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2616747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2716747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2816747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl2916747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3016747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3116747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3216747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3316747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3416747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3516747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3616747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3716747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3816747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3916747
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Pub=
+lish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"MBRA Cross Standings_16747" align=3Dcenter x:publishsource=3D"Ex=
+cel">
+
+<table x:str border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1623 class=
+=3Dxl2916747
+ style=3D'border-collapse:collapse;table-layout:fixed;width:1214pt'>
+ <col class=3Dxl2516747 width=3D121 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 4425;width:91pt'>
+ <col class=3Dxl3816747 width=3D150 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 5485;width:113pt'>
+ <col class=3Dxl3816747 width=3D75 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2742;width:56pt'>
+ <col class=3Dxl3416747 width=3D141 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 5156;width:106pt'>
+ <col class=3Dxl3416747 width=3D80 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2925;width:60pt'>
+ <col class=3Dxl3416747 width=3D64 style=3D'width:48pt'>
+ <col class=3Dxl3416747 width=3D82 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2998;width:62pt'>
+ <col class=3Dxl3416747 width=3D47 span=3D17 style=3D'mso-width-source:user=
+set;
+ mso-width-alt:1718;width:35pt'>
+ <col class=3Dxl2716747 width=3D47 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1718;width:35pt'>
+ <col class=3Dxl2916747 width=3D64 style=3D'width:48pt'>
+ <tr class=3Dxl2316747 height=3D89 style=3D'mso-height-source:userset;heigh=
+t:66.75pt'>
+  <td height=3D89 class=3Dxl2216747 width=3D121 style=3D'height:66.75pt;wid=
+th:91pt'>MBRA
+  Number</td>
+  <td class=3Dxl2216747 width=3D150 style=3D'width:113pt'>Last Name</td>
+  <td class=3Dxl2216747 width=3D75 style=3D'width:56pt'>First Name</td>
+  <td class=3Dxl2216747 width=3D141 style=3D'width:106pt'>Club</td>
+  <td class=3Dxl2216747 width=3D80 style=3D'width:60pt'>Racing Age</td>
+  <td class=3Dxl2216747 width=3D64 style=3D'width:48pt'>USCF Category</td>
+  <td class=3Dxl2216747 width=3D82 style=3D'width:62pt'>Total Points</td>
+  <td colspan=3D3 class=3Dxl2216747 width=3D141 style=3D'width:105pt'>MBRA =
+#1 - Copper
+  Mountian Cyclocross - Butte</td>
+  <td colspan=3D3 class=3Dxl2216747 width=3D141 style=3D'width:105pt'>MBRA =
+#2 - MSU -
+  Bobcat Cyclocross - Bozeman</td>
+  <td colspan=3D3 class=3Dxl2216747 width=3D141 style=3D'width:105pt'>MBRA =
+#3 - U of M
+  - Grizzly Cyclocross - Missoula</td>
+  <td colspan=3D3 class=3Dxl2216747 width=3D141 style=3D'width:105pt'>MBRA =
+#4 - Herron
+  Park Cyclocross - Kalispell</td>
+  <td colspan=3D3 class=3Dxl2216747 width=3D141 style=3D'width:105pt'>MBRA =
+#5 - Helena
+  High Cyclocross - Helena</td>
+  <td colspan=3D3 class=3Dxl2216747 width=3D141 style=3D'width:105pt'>MBRA =
+#6 -
+  Centennial Park Cyclocross (State Championship) - Helena</td>
+  <td class=3Dxl2316747 width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr class=3Dxl2316747 height=3D41 style=3D'mso-height-source:userset;heigh=
+t:30.75pt'>
+  <td height=3D41 class=3Dxl2416747 width=3D121 style=3D'height:30.75pt;wid=
+th:91pt'></td>
+  <td class=3Dxl2416747 width=3D150 style=3D'width:113pt'></td>
+  <td class=3Dxl2416747 width=3D75 style=3D'width:56pt'></td>
+  <td class=3Dxl2416747 width=3D141 style=3D'width:106pt'></td>
+  <td class=3Dxl2216747 width=3D80 style=3D'width:60pt'></td>
+  <td class=3Dxl2216747 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl2416747 width=3D82 style=3D'width:62pt'></td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>MBRA Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Points</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>MBRA Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Points</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>MBRA Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Points</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>MBRA Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Points</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>MBRA Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Points</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>MBRA Place</td>
+  <td class=3Dxl2216747 width=3D47 style=3D'width:35pt'>Points</td>
+  <td class=3Dxl2316747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Men A</td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2816747 width=3D80 style=3D'width:60pt'></td>
+  <td class=3Dxl2816747 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2816747 width=3D47 style=3D'width:35pt'></td>
+  <td class=3Dxl2816747 width=3D47 style=3D'width:35pt'></td>
+  <td class=3Dxl2816747 width=3D47 style=3D'width:35pt'></td>
+  <td class=3Dxl2816747 width=3D47 style=3D'width:35pt'></td>
+  <td class=3Dxl2816747 width=3D47 style=3D'width:35pt'></td>
+  <td class=3Dxl2816747 width=3D47 style=3D'width:35pt'></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>12</td>
+  <td class=3Dxl2616747>MUHLFELD</td>
+  <td class=3Dxl2616747>Clint</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747 x:num>33</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>47</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>20</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>326</td>
+  <td class=3Dxl2616747>MUNDT</td>
+  <td class=3Dxl2616747>Shane</td>
+  <td class=3Dxl2716747>Montana Velo</td>
+  <td class=3Dxl2716747>25</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>34</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"311">=
+311 </td>
+  <td class=3Dxl3116747>NOONAN</td>
+  <td class=3Dxl3116747>Jay</td>
+  <td class=3Dxl3016747>Flathead Cycling</td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3216747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>29</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>14</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>327</td>
+  <td class=3Dxl2616747>LACKEY</td>
+  <td class=3Dxl2616747>John</td>
+  <td class=3Dxl2716747>GAS/Heritage Homes</td>
+  <td class=3Dxl2716747>27</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>18</td>
+  <td class=3Dxl2716747 x:num>12</td>
+  <td class=3Dxl2716747 x:num>8</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"413">=
+413 </td>
+  <td class=3Dxl3116747>HESS</td>
+  <td class=3Dxl3116747>Phil</td>
+  <td class=3Dxl3016747>Great Divide</td>
+  <td class=3Dxl2716747 x:num>35</td>
+  <td class=3Dxl3216747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>15</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>9</td>
+  <td class=3Dxl3316747>PROCTOR</td>
+  <td class=3Dxl3316747>Geoff</td>
+  <td class=3Dxl2716747>Montana Velo</td>
+  <td class=3Dxl2716747 x:num>45</td>
+  <td class=3Dxl3216747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"432">=
+432 </td>
+  <td class=3Dxl3116747>HAMILTON</td>
+  <td class=3Dxl3116747>Joe</td>
+  <td class=3Dxl3016747>5 Valley Velo</td>
+  <td class=3Dxl2716747>29</td>
+  <td class=3Dxl3216747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>8</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>16</td>
+  <td class=3Dxl2616747>KUCHENBROD</td>
+  <td class=3Dxl2616747>Brink</td>
+  <td class=3Dxl2716747>Montana Velo</td>
+  <td class=3Dxl2716747>37</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3216747 style=3D'height:12.75pt' x:num>329</td>
+  <td class=3Dxl3316747>BUTTERFIELD</td>
+  <td class=3Dxl3316747>Matt</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747 x:num>24</td>
+  <td class=3Dxl3216747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>8</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>15</td>
+  <td class=3Dxl2616747>TACK</td>
+  <td class=3Dxl2616747>Josh</td>
+  <td class=3Dxl2716747>5 Valley Velo</td>
+  <td class=3Dxl2716747>23</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>304</td>
+  <td class=3Dxl3316747>SCHNEIDER</td>
+  <td class=3Dxl3316747>Russ</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747>33</td>
+  <td class=3Dxl3216747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>8</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"455">=
+455 </td>
+  <td class=3Dxl2616747>MARZULLO</td>
+  <td class=3Dxl2616747>Patrick</td>
+  <td class=3Dxl2716747>5 Valley Velo</td>
+  <td class=3Dxl2716747>21</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>11</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>17</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>325</td>
+  <td class=3Dxl2616747>LUSSIER</td>
+  <td class=3Dxl2616747>Alexandre</td>
+  <td class=3Dxl2716747>GAS/Heritage Homes</td>
+  <td class=3Dxl2716747>34</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>8</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"11">1=
+1 </td>
+  <td class=3Dxl3116747>GALLEGOS</td>
+  <td class=3Dxl3116747>Alex</td>
+  <td class=3Dxl3016747>5 Valley Velo</td>
+  <td class=3Dxl2716747 x:num>38</td>
+  <td class=3Dxl3216747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>322</td>
+  <td class=3Dxl3316747>WIEDENHEFT</td>
+  <td class=3Dxl3316747>Blake</td>
+  <td class=3Dxl2716747>GAS/Heritage Homes</td>
+  <td class=3Dxl2716747 x:num>30</td>
+  <td class=3Dxl3216747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"418">=
+418 </td>
+  <td class=3Dxl3116747>BORDUIN</td>
+  <td class=3Dxl3116747>Mike</td>
+  <td class=3Dxl3016747>Highlands Cycling</td>
+  <td class=3Dxl2716747>33</td>
+  <td class=3Dxl3216747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"433">=
+433 </td>
+  <td class=3Dxl3116747>GLEAVES</td>
+  <td class=3Dxl3116747>John</td>
+  <td class=3Dxl3016747>Montana Velo</td>
+  <td class=3Dxl2716747>22</td>
+  <td class=3Dxl3216747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>16</td>
+  <td class=3Dxl2716747 x:num>9</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Men B</td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"414">=
+414 </td>
+  <td class=3Dxl3316747>FINLEY</td>
+  <td class=3Dxl3516747>Rick</td>
+  <td class=3Dxl3216747>Great Divide</td>
+  <td class=3Dxl2716747 x:num>34</td>
+  <td class=3Dxl3216747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>21</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>14</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"406">=
+406 </td>
+  <td class=3Dxl3116747>LATINO</td>
+  <td class=3Dxl3116747>Chad</td>
+  <td class=3Dxl3016747>5 Valley Velo</td>
+  <td class=3Dxl2716747 x:num>32</td>
+  <td class=3Dxl3216747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Men<span
+  style=3D'mso-spacerun:yes'>  </span>Masters 35+</td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3616747 style=3D'height:12.75pt' x:num=3D"248">=
+248 </td>
+  <td class=3Dxl3716747>COULTHARD</td>
+  <td class=3Dxl3716747>John</td>
+  <td class=3Dxl3616747>Highlands Cycling</td>
+  <td class=3Dxl2716747>47</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>30</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>6</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>13</td>
+  <td class=3Dxl2616747>WEYHRICH</td>
+  <td class=3Dxl2616747>John</td>
+  <td class=3Dxl2716747>5 Valley Velo</td>
+  <td class=3Dxl2716747>47</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>29</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>208</td>
+  <td class=3Dxl2616747>GAERTNER</td>
+  <td class=3Dxl2616747>Tim</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747 x:num>40</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>22</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>14</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt' x:num>207</td>
+  <td class=3Dxl2616747>MULLER</td>
+  <td class=3Dxl2616747>Steve</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747 x:num>50</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>20</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>8</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3616747 style=3D'height:12.75pt' x:num=3D"209">=
+209 </td>
+  <td class=3Dxl3716747>DE FORD</td>
+  <td class=3Dxl3716747>Byron</td>
+  <td class=3Dxl3616747>Great Divide</td>
+  <td class=3Dxl2716747>49</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>17</td>
+  <td class=3Dxl2716747 x:num>10</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl3216747 style=3D'height:12.75pt' x:num>244</td>
+  <td class=3Dxl3316747>CHAUNER</td>
+  <td class=3Dxl3316747>Walt</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747 x:num>53</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl3016747 style=3D'height:12.75pt' x:num=3D"249">=
+249 </td>
+  <td class=3Dxl3316747>RUSSELL</td>
+  <td class=3Dxl3316747>Don</td>
+  <td class=3Dxl3216747>5 Valley Velo</td>
+  <td class=3Dxl2716747 x:num>53</td>
+  <td class=3Dxl2716747 x:num>3</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl3216747 style=3D'height:12.75pt' x:num>215</td>
+  <td class=3Dxl3316747>CAMPBELL</td>
+  <td class=3Dxl3316747>Ken</td>
+  <td class=3Dxl2716747>Flathead Cycling</td>
+  <td class=3Dxl2716747 x:num>45</td>
+  <td class=3Dxl2716747 x:num>5</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747>DNF</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Women A</td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3616747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3716747></td>
+  <td class=3Dxl3716747></td>
+  <td class=3Dxl3616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Women B</td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3616747 style=3D'height:12.75pt' x:num=3D"126">=
+126 </td>
+  <td class=3Dxl3716747>YAMANAKA-WILLIAMS</td>
+  <td class=3Dxl3716747>Jackie</td>
+  <td class=3Dxl3216747>Velo Bella</td>
+  <td class=3Dxl2716747 x:num>40</td>
+  <td class=3Dxl2716747 x:num>4</td>
+  <td class=3Dxl2716747 x:num>35</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>7</td>
+  <td class=3Dxl2716747 x:num>2</td>
+  <td class=3Dxl2716747 x:num>1</td>
+  <td class=3Dxl2716747 x:num>14</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Men<span
+  style=3D'mso-spacerun:yes'>  </span>Juniors</td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3616747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3716747></td>
+  <td class=3Dxl3716747></td>
+  <td class=3Dxl3616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2716747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2616747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2516747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'>Women Juniors<=
+/td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3916747 style=3D'height:12.75pt'><span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747>dns</td>
+  <td class=3Dxl2716747 x:num>0</td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2516747 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3816747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl3416747></td>
+  <td class=3Dxl2716747></td>
+  <td class=3Dxl2916747></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D121 style=3D'width:91pt'></td>
+  <td width=3D150 style=3D'width:113pt'></td>
+  <td width=3D75 style=3D'width:56pt'></td>
+  <td width=3D141 style=3D'width:106pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D82 style=3D'width:62pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D47 style=3D'width:35pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>

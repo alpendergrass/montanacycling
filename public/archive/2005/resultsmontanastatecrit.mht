@@ -1,0 +1,1517 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/2E835594/resultsmontanastatecrit.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 11">
+<link rel=3DFile-List href=3D"resultsmontanastatecrit_files/filelist.xml">
+<style id=3D"MBRA State Crit Results - 2005_15067_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl1515067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2415067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2515067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2615067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2715067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2815067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2915067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3015067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3115067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3215067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\0022$\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022$\0022\#\,=
+\#\#0\.00\\\)";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3315067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\0022$\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022$\0022\#\,=
+\#\#0\.00\\\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3415067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3515067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3615067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3715067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3815067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3915067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4015067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4115067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4215067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4315067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4415067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4515067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4615067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4715067
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:20.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Pub=
+lish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"MBRA State Crit Results - 2005_15067" align=3Dcenter
+x:publishsource=3D"Excel">
+
+<table x:str border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D705 style=
+=3D'border-collapse:
+ collapse;table-layout:fixed;width:530pt'>
+ <col class=3Dxl2415067 width=3D45 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1645;width:34pt'>
+ <col class=3Dxl3515067 width=3D67 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2450;width:50pt'>
+ <col class=3Dxl2415067 width=3D74 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2706;width:56pt'>
+ <col class=3Dxl2415067 width=3D46 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1682;width:35pt'>
+ <col class=3Dxl3915067 width=3D79 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2889;width:59pt'>
+ <col class=3Dxl3915067 width=3D48 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1755;width:36pt'>
+ <col class=3Dxl3515067 width=3D82 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2998;width:62pt'>
+ <col width=3D48 style=3D'mso-width-source:userset;mso-width-alt:1755;width=
+:36pt'>
+ <col class=3Dxl2415067 width=3D48 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1755;width:36pt'>
+ <col width=3D61 style=3D'mso-width-source:userset;mso-width-alt:2230;width=
+:46pt'>
+ <col class=3Dxl2415067 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td colspan=3D11 rowspan=3D3 height=3D51 class=3Dxl4715067 width=3D641
+  style=3D'height:38.25pt;width:482pt'>2005 Montana State Criterium Champio=
+nships</td>
+  <td class=3Dxl1515067 width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl1515067 style=3D'height:12.75pt'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl1515067 style=3D'height:12.75pt'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3615067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl4015067>USCF</td>
+  <td class=3Dxl3915067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'>Spons</td>
+  <td class=3Dxl3715067>Permit</td>
+  <td class=3Dxl2615067>Date</td>
+  <td class=3Dxl2915067>Event</td>
+  <td class=3Dxl4015067>License</td>
+  <td class=3Dxl4015067>MBRA #</td>
+  <td class=3Dxl3815067>Last</td>
+  <td class=3Dxl2715067>First</td>
+  <td class=3Dxl2615067>Age</td>
+  <td class=3Dxl2715067>Team</td>
+  <td class=3Dxl2615067>Place</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3915067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl2615067>Junior Men</td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl3315067></td>
+  <td class=3Dxl3215067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl3215067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Proctor</td>
+  <td class=3Dxl1515067>Atticus</td>
+  <td class=3Dxl2415067 x:num>10</td>
+  <td class=3Dxl3415067>MT Velo</td>
+  <td class=3Dxl2415067 x:num>1</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067 colspan=3D2>Women Cat 4</td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2715067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Longmire</td>
+  <td class=3Dxl1515067>Daryel</td>
+  <td class=3Dxl2415067 x:num>24</td>
+  <td class=3Dxl3415067>N Rockies</td>
+  <td class=3Dxl2415067 x:num>1</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Speagle</td>
+  <td class=3Dxl1515067>Lisa</td>
+  <td class=3Dxl2415067 x:num>24</td>
+  <td class=3Dxl3415067>Unattached</td>
+  <td class=3Dxl2415067 x:num>2</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067 x:num>120</td>
+  <td class=3Dxl3515067>O'Driscoll</td>
+  <td class=3Dxl1515067>Jane</td>
+  <td class=3Dxl2415067 x:num>38</td>
+  <td class=3Dxl3415067>GR. Divide</td>
+  <td class=3Dxl2415067 x:num>3</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Schultz</td>
+  <td class=3Dxl1515067>Lara</td>
+  <td class=3Dxl2415067 x:num>28</td>
+  <td class=3Dxl3415067>Unattached</td>
+  <td class=3Dxl2415067 x:num>4</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067 x:num>209112</td>
+  <td class=3Dxl3015067 x:num>116</td>
+  <td class=3Dxl3515067>Thorpe</td>
+  <td class=3Dxl1515067>Andrea</td>
+  <td class=3Dxl2415067 x:num>29</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl2415067 x:num>5</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067 colspan=3D2>Women 1/2/3</td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2715067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2515067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3815067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>NONE</td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl4115067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2515067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2515067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl4115067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2515067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067 colspan=3D2>Masters 55+</td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3815067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>NONE</td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067 colspan=3D2>Masters 40+</td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3815067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0021552</td>
+  <td class=3Dxl3015067 x:num>217</td>
+  <td class=3Dxl3515067>Longmire</td>
+  <td class=3Dxl1515067>Mike</td>
+  <td class=3Dxl2415067 x:num>51</td>
+  <td class=3Dxl3415067>N Rockies</td>
+  <td class=3Dxl2415067 x:num>1</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>074260</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Snifen</td>
+  <td class=3Dxl1515067>Ed</td>
+  <td class=3Dxl2415067 x:num>42</td>
+  <td class=3Dxl3415067>Alaska</td>
+  <td class=3Dxl2415067 x:num>2</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>138530</td>
+  <td class=3Dxl3015067 x:num>216</td>
+  <td class=3Dxl3515067>Smith</td>
+  <td class=3Dxl1515067>Scot</td>
+  <td class=3Dxl2415067 x:num>43</td>
+  <td class=3Dxl3415067>UnAt</td>
+  <td class=3Dxl2415067 x:num>3</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>081059</td>
+  <td class=3Dxl3015067 x:num>208</td>
+  <td class=3Dxl3515067>Gaertner</td>
+  <td class=3Dxl1515067>Tim</td>
+  <td class=3Dxl2415067 x:num>40</td>
+  <td class=3Dxl3415067>Flathead</td>
+  <td class=3Dxl2415067 x:num>4</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>036716</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Vinson</td>
+  <td class=3Dxl1515067>Tom</td>
+  <td class=3Dxl2415067 x:num>52</td>
+  <td class=3Dxl3415067>Ind Fab</td>
+  <td class=3Dxl2415067 x:num>5</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>007926</td>
+  <td class=3Dxl4615067 x:num>248</td>
+  <td class=3Dxl3515067>Coulthard</td>
+  <td class=3Dxl1515067>John</td>
+  <td class=3Dxl2415067 x:num>47</td>
+  <td class=3Dxl3415067>Highlands</td>
+  <td class=3Dxl2415067 x:num>6</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>198928</td>
+  <td class=3Dxl3015067>234</td>
+  <td class=3Dxl3515067>Weston</td>
+  <td class=3Dxl1515067>John</td>
+  <td class=3Dxl2415067 x:num>49</td>
+  <td class=3Dxl3415067>Echelon</td>
+  <td class=3Dxl2415067 x:num>7</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067>Men 4/5</td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3815067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0218964</td>
+  <td class=3Dxl3015067 x:num>444</td>
+  <td class=3Dxl3515067>Chalmess</td>
+  <td class=3Dxl1515067>Joe</td>
+  <td class=3Dxl2415067 x:num>35</td>
+  <td class=3Dxl3415067>N. Rockies</td>
+  <td class=3Dxl2415067 x:num>1</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0198925</td>
+  <td class=3Dxl3015067 x:num>415</td>
+  <td class=3Dxl3515067>Key</td>
+  <td class=3Dxl1515067>Mike</td>
+  <td class=3Dxl2415067 x:num>29</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl2415067 x:num>2</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Curry</td>
+  <td class=3Dxl1515067>John</td>
+  <td class=3Dxl2415067 x:num>24</td>
+  <td class=3Dxl3415067>UnAt</td>
+  <td class=3Dxl2415067 x:num>3</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>210982</td>
+  <td class=3Dxl3015067 x:num>403</td>
+  <td class=3Dxl3515067>Keister</td>
+  <td class=3Dxl1515067>Jason</td>
+  <td class=3Dxl2415067 x:num>26</td>
+  <td class=3Dxl3415067>Flathead</td>
+  <td class=3Dxl2415067 x:num>4</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>191762</td>
+  <td class=3Dxl3015067 x:num>413</td>
+  <td class=3Dxl3515067>Hess</td>
+  <td class=3Dxl1515067>Phil</td>
+  <td class=3Dxl2415067 x:num>35</td>
+  <td class=3Dxl3415067>GR Divide</td>
+  <td class=3Dxl2415067 x:num>5</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>227919</td>
+  <td class=3Dxl3015067 x:num>427</td>
+  <td class=3Dxl3515067>Arndt</td>
+  <td class=3Dxl1515067>Matt</td>
+  <td class=3Dxl2415067 x:num>30</td>
+  <td class=3Dxl3415067>FVV</td>
+  <td class=3Dxl2415067 x:num>6</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>One Day</td>
+  <td class=3Dxl3015067>1 Day</td>
+  <td class=3Dxl3515067>Johnson</td>
+  <td class=3Dxl1515067>Scott</td>
+  <td class=3Dxl2415067 x:num>22</td>
+  <td class=3Dxl3415067>UnAt</td>
+  <td class=3Dxl2415067 x:num>7</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067>Men 3</td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3815067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>012315</td>
+  <td class=3Dxl3015067>1-Day</td>
+  <td class=3Dxl3515067>Frechette</td>
+  <td class=3Dxl1515067>Rob</td>
+  <td class=3Dxl2415067 x:num>33</td>
+  <td class=3Dxl3415067>Earth</td>
+  <td class=3Dxl2415067 x:num>1</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0209124</td>
+  <td class=3Dxl3015067 x:num>316</td>
+  <td class=3Dxl3515067>Morgan</td>
+  <td class=3Dxl1515067>Brad</td>
+  <td class=3Dxl2415067 x:num>34</td>
+  <td class=3Dxl3415067>GAS/HH</td>
+  <td class=3Dxl2415067 x:num>2</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>074260</td>
+  <td class=3Dxl3015067>1-Day</td>
+  <td class=3Dxl3515067>Snifen</td>
+  <td class=3Dxl1515067>Clyde</td>
+  <td class=3Dxl2415067 x:num>42</td>
+  <td class=3Dxl3415067>Alaska</td>
+  <td class=3Dxl2415067 x:num>3</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>202497</td>
+  <td class=3Dxl3015067 x:num>315</td>
+  <td class=3Dxl3515067>Presta</td>
+  <td class=3Dxl1515067>Bob</td>
+  <td class=3Dxl2415067 x:num>30</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl2415067 x:num>4</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0212029</td>
+  <td class=3Dxl3015067 x:num>455</td>
+  <td class=3Dxl3515067>Marzullo</td>
+  <td class=3Dxl1515067>Patrick</td>
+  <td class=3Dxl2415067 x:num>21</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl2415067 x:num>5</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0162742</td>
+  <td class=3Dxl3015067 x:num>321</td>
+  <td class=3Dxl3515067>Barry</td>
+  <td class=3Dxl1515067>David</td>
+  <td class=3Dxl2415067 x:num>23</td>
+  <td class=3Dxl3415067>Gas/HH</td>
+  <td class=3Dxl2415067 x:num>6</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0058454</td>
+  <td class=3Dxl3015067 x:num>304</td>
+  <td class=3Dxl3515067>Schneider</td>
+  <td class=3Dxl1515067>Russ</td>
+  <td class=3Dxl2415067 x:num>33</td>
+  <td class=3Dxl3415067>Flathead</td>
+  <td class=3Dxl2415067 x:num>7</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0173883</td>
+  <td class=3Dxl3015067 x:num>302</td>
+  <td class=3Dxl3515067>Hobson</td>
+  <td class=3Dxl1515067>Jason</td>
+  <td class=3Dxl2415067 x:num>34</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl2415067 x:num>8</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0189063</td>
+  <td class=3Dxl3015067 x:num>327</td>
+  <td class=3Dxl3515067>Lackey</td>
+  <td class=3Dxl1515067>John</td>
+  <td class=3Dxl2415067 x:num>27</td>
+  <td class=3Dxl3415067>Gas/HH</td>
+  <td class=3Dxl2415067 x:num>9</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2515067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>060496</td>
+  <td class=3Dxl3015067>1-Day</td>
+  <td class=3Dxl3515067>Chapman</td>
+  <td class=3Dxl1515067>Michael</td>
+  <td class=3Dxl2415067 x:num>36</td>
+  <td class=3Dxl3415067>FVV</td>
+  <td class=3Dxl2415067>DNF</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3815067>Men 1/2</td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3815067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2615067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2615067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2815067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3015067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl3015067>0147856</td>
+  <td class=3Dxl3015067 x:num>15</td>
+  <td class=3Dxl3515067>Weyhrich</td>
+  <td class=3Dxl1515067>John</td>
+  <td class=3Dxl2415067 x:num>47</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl2415067 x:num>1</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl4215067>0185552</td>
+  <td class=3Dxl4215067 x:num>12</td>
+  <td class=3Dxl4415067>Muhlfeld</td>
+  <td class=3Dxl4515067>Clint</td>
+  <td class=3Dxl4315067 x:num>34</td>
+  <td class=3Dxl3415067>Flathead</td>
+  <td class=3Dxl4315067 x:num>2</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl4215067>12685</td>
+  <td class=3Dxl4215067 x:num>11</td>
+  <td class=3Dxl4415067>Gallego</td>
+  <td class=3Dxl4515067>Alex</td>
+  <td class=3Dxl4315067 x:num>38</td>
+  <td class=3Dxl3415067>5VV</td>
+  <td class=3Dxl4315067 x:num>3</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl4215067>16013</td>
+  <td class=3Dxl4215067 x:num>1</td>
+  <td class=3Dxl4415067>Herzig</td>
+  <td class=3Dxl4515067>Scott</td>
+  <td class=3Dxl4315067 x:num>35</td>
+  <td class=3Dxl3415067>MT Velo</td>
+  <td class=3Dxl4315067 x:num>4</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3115067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl4215067>102725</td>
+  <td class=3Dxl4215067 x:num>4</td>
+  <td class=3Dxl4415067>Hartman</td>
+  <td class=3Dxl4515067>Dave</td>
+  <td class=3Dxl4315067 x:num>32</td>
+  <td class=3Dxl3415067>N Rockies</td>
+  <td class=3Dxl4315067 x:num>5</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'>MBRA</td>
+  <td class=3Dxl3515067 x:num>2005</td>
+  <td class=3Dxl2815067 x:num=3D"38585">8/21/2005</td>
+  <td class=3Dxl2415067>Crit</td>
+  <td class=3Dxl4215067>48283</td>
+  <td class=3Dxl4215067 x:num>9</td>
+  <td class=3Dxl4415067>Proctor</td>
+  <td class=3Dxl4515067>Geoffrey</td>
+  <td class=3Dxl4315067 x:num>45</td>
+  <td class=3Dxl3415067>MT Velo</td>
+  <td class=3Dxl4315067 x:num>6</td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3915067></td>
+  <td class=3Dxl3915067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2415067 style=3D'height:12.75pt'></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3915067></td>
+  <td class=3Dxl3915067></td>
+  <td class=3Dxl3515067></td>
+  <td class=3Dxl1515067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl3415067></td>
+  <td class=3Dxl2415067></td>
+  <td class=3Dxl1515067></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D45 style=3D'width:34pt'></td>
+  <td width=3D67 style=3D'width:50pt'></td>
+  <td width=3D74 style=3D'width:56pt'></td>
+  <td width=3D46 style=3D'width:35pt'></td>
+  <td width=3D79 style=3D'width:59pt'></td>
+  <td width=3D48 style=3D'width:36pt'></td>
+  <td width=3D82 style=3D'width:62pt'></td>
+  <td width=3D48 style=3D'width:36pt'></td>
+  <td width=3D48 style=3D'width:36pt'></td>
+  <td width=3D61 style=3D'width:46pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>

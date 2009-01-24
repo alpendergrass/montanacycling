@@ -1,0 +1,3643 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/C86ACAD3/standingsmissoulacross.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 11">
+<link rel=3DFile-List href=3D"standingsmissoulacross_files/filelist.xml">
+<style id=3D"2005 Missoula Cyclocross Final Standiings_19167_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl2419167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl2519167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl2619167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2719167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2819167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl2919167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3019167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3119167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3219167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3319167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3419167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3519167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3619167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:nowrap;}
+.xl3719167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl3819167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl3919167
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Pub=
+lish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"2005 Missoula Cyclocross Final Standiings_19167" align=3Dcenter
+x:publishsource=3D"Excel">
+
+<table x:str border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D2025 class=
+=3Dxl2819167
+ style=3D'border-collapse:collapse;table-layout:fixed;width:1527pt'>
+ <col class=3Dxl2719167 width=3D165 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 6034;width:124pt'>
+ <col class=3Dxl2719167 width=3D110 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 4022;width:83pt'>
+ <col class=3Dxl2719167 width=3D143 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 5229;width:107pt'>
+ <col class=3Dxl2619167 width=3D82 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2998;width:62pt'>
+ <col class=3Dxl2619167 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col class=3Dxl2619167 width=3D46 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1682;width:35pt'>
+ <col class=3Dxl2619167 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col class=3Dxl2619167 width=3D46 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1682;width:35pt'>
+ <col class=3Dxl2619167 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col class=3Dxl2619167 width=3D46 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1682;width:35pt'>
+ <col class=3Dxl2619167 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col class=3Dxl2619167 width=3D46 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1682;width:35pt'>
+ <col class=3Dxl2619167 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col class=3Dxl2619167 width=3D46 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1682;width:35pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 span=3D2 style=3D'mso-width-source:users=
+et;
+ mso-width-alt:3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3291;width:68pt'>
+ <col class=3Dxl2619167 width=3D90 span=3D2 style=3D'mso-width-source:users=
+et;
+ mso-width-alt:3291;width:68pt'>
+ <tr height=3D34 style=3D'mso-height-source:userset;height:25.5pt'>
+  <td height=3D34 class=3Dxl2519167 width=3D165 style=3D'height:25.5pt;widt=
+h:124pt'>Name</td>
+  <td class=3Dxl2519167 width=3D110 style=3D'border-left:none;width:83pt'>L=
+icence
+  Number</td>
+  <td class=3Dxl2519167 width=3D143 style=3D'border-left:none;width:107pt'>=
+Club</td>
+  <td class=3Dxl2419167 width=3D82 style=3D'border-left:none;width:62pt'>To=
+tal Points</td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D89 style=3D'border-right:.5pt s=
+olid black;
+  border-left:none;width:67pt'><span style=3D'mso-spacerun:yes'> </span>#1<=
+/td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D89 style=3D'border-right:.5pt s=
+olid black;
+  border-left:none;width:67pt'><span style=3D'mso-spacerun:yes'> </span>#2<=
+/td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D89 style=3D'border-right:.5pt s=
+olid black;
+  border-left:none;width:67pt'><span style=3D'mso-spacerun:yes'> </span>#3<=
+/td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D89 style=3D'border-right:.5pt s=
+olid black;
+  border-left:none;width:67pt'><span style=3D'mso-spacerun:yes'> </span>#4<=
+/td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D89 style=3D'border-right:.5pt s=
+olid black;
+  border-left:none;width:67pt'><span style=3D'mso-spacerun:yes'> </span>#5<=
+/td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D180 style=3D'border-right:.5pt =
+solid black;
+  border-left:none;width:136pt'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D180 style=3D'border-right:.5pt =
+solid black;
+  border-left:none;width:136pt'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl3719167 width=3D180 style=3D'border-right:.5pt =
+solid black;
+  border-left:none;width:136pt'>&nbsp;</td>
+  <td colspan=3D3 class=3Dxl3719167 width=3D270 style=3D'border-right:.5pt =
+solid black;
+  border-left:none;width:204pt'>&nbsp;</td>
+  <td colspan=3D3 class=3Dxl3719167 width=3D270 style=3D'border-right:.5pt =
+solid black;
+  border-left:none;width:204pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl3219167 style=3D'height:12.75pt;border-top:none=
+'>Men A</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>Place</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>Points</td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>Place</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>Points</td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>Place</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>Points</td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>Place</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>Points</td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>Place</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>Points</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>Place</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>Points</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>Place</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>Points</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>Place</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>Points</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D90 style=3D'border-top:none;border-left:non=
+e;
+  width:68pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D43 style=3D'border-top:none;border-left:non=
+e;
+  width:32pt'>&nbsp;</td>
+  <td class=3Dxl2419167 width=3D46 style=3D'border-top:none;border-left:non=
+e;
+  width:35pt'>&nbsp;</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Dave
+  Hartman</td>
+  <td class=3Dxl3519167>B0102725</td>
+  <td class=3Dxl2719167 style=3D'border-top:none'>Northern Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF4+H4+J4+L4+N4+P4+R4+T4">430</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Joe
+  Hamilton</td>
+  <td class=3Dxl2719167 style=3D'border-left:none'>B0196621</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF5+H5+J5+L5+N5+P5+R5+T5">330</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Mike
+  McDonald</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>unattach=
+ed</td>
+  <td class=3Dxl2919167 style=3D'border-top:none' x:num
+  x:fmla=3D"=3DF6+H6+J6+L6+N6+P6+R6+T6">295</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Toby
+  Meierbachtol</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0229618=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>UM</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF7+H7+J7+L7+N7+P7+R7+T7">260</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Tom
+  Robertson</td>
+  <td class=3Dxl3419167 style=3D'border-top:none;border-left:none'>B0068412=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2919167 style=3D'border-top:none' x:num
+  x:fmla=3D"=3DF8+H8+J8+L8+N8+P8+R8+T8">246</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Doug
+  Shryock</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Pending<=
+/td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>UM</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF9+H9+J9+L9+N9+P9+R9+T9">215</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Brink
+  Kuchenbrod</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0019942=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Montana =
+Velo</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF10+H10+J10+L10+N10+P10+R10+T10">127</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Rankin
+  Holmes</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>one-day<=
+/td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF11+H11+J11+L11+N11+P11+R11+T11">125</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>8<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>45=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Patrick
+  Marzullo</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0212029=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF12+H12+J12+L12+N12+P12+R12+T12">110</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Geoff
+  Proctor</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0048283=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Montana =
+Velo</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF13+H13+J13+L13+N13+P13+R13+T13">100</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Mike
+  Beltz</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0080669=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF14+H14+J14+L14+N14+P14+R14+T14">96</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>9<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>40=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Jeff
+  Cincoski</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0191666=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF15+H15+J15+L15+N15+P15+R15+T15">55</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Josh
+  Tack</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0147856=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF16+H16+J16+L16+N16+P16+R16+T16">46</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>8<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>45=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Phil
+  Grove</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Broadmar=
+k</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF17+H17+J17+L17+N17+P17+R17+T17">36</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>35=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Grant
+  Keir</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0019086=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>unattach=
+ed</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF18+H18+J18+L18+N18+P18+R18+T18">2</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3019167 style=3D'height:12.75pt;border-top:none=
+'>Andy
+  Fischer</td>
+  <td class=3Dxl3019167 style=3D'border-top:none;border-left:none'>B0197580=
+</td>
+  <td class=3Dxl3119167 style=3D'border-top:none;border-left:none'>Broadmar=
+k</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF19+H19+J19+L19+N19+P19+R19+T19">1</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3219167 style=3D'height:12.75pt;border-top:none=
+'>Men B</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Jeff
+  Cincoski</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0191666=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF23+H23+J23+L23+N23+P23+R23+T23">360</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Nick
+  Franczyk</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0206735=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF24+H24+J24+L24+N24+P24+R24+T24">345</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>8<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>45=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Shaun
+  Radley</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>annual</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>UM</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF25+H25+J25+L25+N25+P25+R25+T25">335</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Andy
+  Lassila</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0020453=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>unattach=
+ed</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF26+H26+J26+L26+N26+P26+R26+T26">280</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Brendan
+  Halpin</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Pending<=
+/td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>UM</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF27+H27+J27+L27+N27+P27+R27+T27">265</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>8<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>45=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Scott
+  Anderson</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0217946=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF28+H28+J28+L28+N28+P28+R28+T28">140</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Tim
+  O'Leary</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'><span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF29+H29+J29+L29+N29">116</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>12=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>25=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>9<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>40=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Sam Hall</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>one-day<=
+/td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF30+H30+J30+L30+N30+P30+R30+T30">105</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>7<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>50=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Doug
+  Shryock</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Pending<=
+/td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>UM</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF31+H31+J31+L31+N31+P31+R31+T31">100</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Eric
+  Ziegler</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0210869=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2919167 style=3D'border-top:none' x:num
+  x:fmla=3D"=3DF32+H32+J32+L32+N32+P32+R32+T32">100</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Matt
+  Arndt</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0227919=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF33+H33+J33+L33+N33+P33+R33+T33">96</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>35=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dnf</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Patrick
+  Marzullo</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0212029=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>UM</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF34+H34+J34+L34+N34+P34+R34+T34">70</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Shane
+  McMillan</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF35+H35+J35+L35+N35+P35+R35+T35">60</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Aaron
+  Riley</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>one-day<=
+/td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>unattach=
+ed</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF36+H36+J36+L36+N36+P36+R36+T36">60</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>5<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>60=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Miles
+  Key</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0198925=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF37+H37+J37+L37+N37+P37+R37+T37">55</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Stu
+  Morigeau</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF38+H38+J38+L38+N38+P38+R38+T38">55</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>6<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>55=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Jeff
+  Bookwalter</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0004226=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF39+H39+J39+L39+N39+P39+R39+T39">40</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>9<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>40=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Marc
+  Hauger</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0159201=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF40+H40+J40+L40+N40+P40+R40+T40">30</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>11=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>30=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Primo
+  Latino</td>
+  <td class=3Dxl3619167 style=3D'border-top:none;border-left:none'>B0191848=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF41+H41+J41+L41+N41+P41+R41+T41">0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3219167 style=3D'height:12.75pt;border-top:none=
+'>Women A</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Nylene
+  Wicks</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>annual</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>unattach=
+ed</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF45+H45+J45+L45+N45+P45+R45+T45">415</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Kathy
+  McGann</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>annual</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Northern=
+ Rockies</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF46+H46+J46+L46+N46+P46+R46+T46">345</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Emily
+  Herndon</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>annual</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF47+H47+J47+L47+N47+P47+R47+T47">345</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>4<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>65=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Linsey
+  Pickell</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>annual</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF48+H48+J48+L48+N48+P48+R48+T48">180</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Kathleen
+  Jones</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0130008=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>MSU</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF49+H49+J49+L49+N49+P49+R49+T49">160</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl3219167 style=3D'height:12.75pt;border-top:none=
+'>Master
+  Men 40+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl3319167 style=3D'height:12.75pt'>John Weyhrich<=
+/td>
+  <td class=3Dxl3319167 style=3D'border-left:none'>B0037860</td>
+  <td class=3Dxl3319167 style=3D'border-left:none'>Team Stampede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF52+H52+J52+L52+N52+P52+R52+T52">300</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Tim
+  Bechtold</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0172566=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF53+H53+J53+L53+N53+P53+R53+T53">280</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>1<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>10=
+0</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>Mark
+  Burke</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>B0198924=
+</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>Team Sta=
+mpede</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF54+H54+J54+L54+N54+P54+R54+T54">160</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>2<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>80=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'mso-height-source:userset;height:12.75pt'>
+  <td height=3D17 class=3Dxl3319167 style=3D'height:12.75pt'>Tim Gaertner</=
+td>
+  <td class=3Dxl3319167 style=3D'border-left:none'>B0081059</td>
+  <td class=3Dxl3319167 style=3D'border-left:none'>Flathead</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num
+  x:fmla=3D"=3DF55+H55+J55+L55+N55+P55+R55+T55">70</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>3<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>70=
+</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>dns</td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none' x:num>0<=
+/td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl2719167 style=3D'height:12.75pt;border-top:none=
+'>&nbsp;</td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2719167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl2619167 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D165 style=3D'width:124pt'></td>
+  <td width=3D110 style=3D'width:83pt'></td>
+  <td width=3D143 style=3D'width:107pt'></td>
+  <td width=3D82 style=3D'width:62pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D46 style=3D'width:35pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D46 style=3D'width:35pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D46 style=3D'width:35pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D46 style=3D'width:35pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D46 style=3D'width:35pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+  <td width=3D90 style=3D'width:68pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
