@@ -6,7 +6,11 @@
   <% for article in @articles %>
     <tr>
       <td><h3><%= link_to "#{article.title}", { :action => 'show', :id => article } %></h3>
-      <p><%= strip_tags(truncate(article.body, 100)) %></p></td>
+        <p><%#= strip_tags(truncate(article.body, 300)) %></p>
+        <p><%= truncate(article.body, 500) %>
+        <%- if article.body.length > 500 %>
+          <%= link_to "more", { :action => 'show', :id => article } %>
+        <%- end %></p></td>
     </tr>
   <% end %>
 </table>
