@@ -11,7 +11,7 @@
 class Event < ActiveRecord::Base
   before_validation :find_associated_records
   validate_on_create :validate_type
-  validates_presence_of :name, :date
+  validates_presence_of :name, :date, :discipline
   after_create :add_default_number_issuer
   before_destroy :validate_no_results
 

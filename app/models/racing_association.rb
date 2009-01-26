@@ -18,7 +18,7 @@ class RacingAssociation
   end
   
   def default_discipline
-    @default_discipline ||= "Road"
+    @default_discipline ||= "road"
   end
 
   def gender_specific_numbers?

@@ -73,7 +73,7 @@ class Admin::EventsController < ApplicationController
       redirect_to(:controller => :schedule, :action => :index)
     else
       flash[:warn] = @event.errors.full_messages
-      "new"
+      render(:action => :new)
     end
   end
   
