@@ -23,3 +23,4 @@ config.action_controller.consider_all_requests_local = false
 
 # alptodo: need to change this when we go live...
 STATIC_HOST = 'montanacycling.railsplayground.net'
+REGIONAL_SITE_LINKS = "/articles/12"

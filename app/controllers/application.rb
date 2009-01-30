@@ -7,8 +7,6 @@ class ApplicationController < ActionController::Base
   
   local_addresses.clear
   
-  RESULTS_LIMIT = 150
-  
   filter_parameter_logging "password"
   
   def expire_cache

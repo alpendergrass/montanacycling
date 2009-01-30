@@ -1,5 +1,7 @@
 class Admin::TeamsController < Admin::RecordEditor
 
+  RESULTS_LIMIT = 150
+
   edits :team
   
   def index

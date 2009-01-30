@@ -18,3 +18,4 @@ config.action_mailer.raise_delivery_errors = false
 
 #RAILS_HOST = "localhost:3000"
 STATIC_HOST = 'localhost:3000'
+REGIONAL_SITE_LINKS = "/articles/4"
