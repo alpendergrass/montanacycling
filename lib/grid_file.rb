@@ -136,7 +136,7 @@ class GridFile < Grid
         @file = source
         if excel?
 #          lines = GridFile.read_excel(@file)
-          raise "#{source} is Excel file. I do not do Excel." unless File.exists?(source.path)
+          raise "#{source} is Excel file. I do not do Excel." #unless File.exists?(source.path)
         else
           lines = source.readlines
         end

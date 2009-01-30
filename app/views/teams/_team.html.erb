@@ -1,6 +1,6 @@
 <tr>
   <td class="club_name">
-    <%= link_to(team.name, team_path(team)) %>
+    <%= link_to(team.name, team_path(team)) %><%= (" (includes " + truncate(team.aliases.collect{ |a| a.name }.join(', '), 80) + ")") unless team.aliases.blank? %>
   </td>
   <td class="club_name">
     <%= "Yes" unless !team.member %>

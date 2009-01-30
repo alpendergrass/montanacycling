@@ -42,11 +42,11 @@ class Admin::ScheduleController < ApplicationController
         :action => :index, 
         :year => date.year
       }
-    rescue  Exception => error
-      redirect_path = {
-        :controller => "/admin/schedule"
-      }
-      flash[:warn] = "Could not import schedule: #{error}"
+#    rescue  Exception => error
+#      redirect_path = {
+#        :controller => "/admin/schedule"
+#      }
+#      flash[:warn] = "Could not import schedule: #{error}"
     end
     
     redirect_to(redirect_path)
