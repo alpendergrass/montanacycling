@@ -997,7 +997,12 @@ table.base#racers td.member, table.base#teams td.member {
 }
 
 textarea#team_sponsors {
-  width: 95%;
+  width: 500px;
+  height: 36px;
+}
+
+textarea#team_notes {
+  width: 500px;
   height: 72px;
 }
 
