@@ -20,10 +20,10 @@
     <tr class='column_titles'>
       <th>&nbsp;</th>
       <th>Event</th>
-      <th>Promoter</th> 
-      <th>Phone</th>
       <th>Discipline</th>
       <th>Location</th>
+      <th>Sponsoring Team</th>
+      <th>Promoter</th>
     </tr>
     <%- for month in @schedule.months -%>
       <%- sql = "Select COUNT(*) from events where MONTH(date)= #{month.date.month} and YEAR(date) = #{@year}" %>
@@ -51,6 +51,9 @@
                     <%- end -%>
                   <%- end -%>
                 </td> 
+                <td><%= event.discipline.titleize -%></td>
+                <td><%= event.city -%></td>
+                <td><%= event.team.name unless event.team.blank? -%></td>
                 <td>
                   <%- if event.promoter_email.blank? -%>
                     <%= event.promoter_name -%>
@@ -60,9 +63,6 @@
                     <a href="mailto:<%= event.promoter_email -%>"><%= event.promoter_name -%></a>
                   <%- end -%>
                 </td> 
-                <td><%= event.promoter_phone -%></td> 
-                <td><%= event.discipline.titleize -%></td>
-                <td><%= event.city -%></td>
               </tr>
             <%- end -%>
           <%- end -%>
