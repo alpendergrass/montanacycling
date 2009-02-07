@@ -1,19 +1,18 @@
 <table class="base" id="home_page_news">
-  <caption><%= link_to 'News', :controller => 'articles', :id_type => "article_category", :article_category_id => @news_category %></caption>
+  <caption><%= link_to 'News', @news_category %></caption>
   <%- for news_item in @recent_news -%>
   <tr>
-    <td><h4><%= link_to news_item.title, :controller => 'articles', :action => 'show', :id => news_item %></h4></td>
-    <%# link_to "#{article.title}", { :action => 'show', :id => article } %>
+    <td><h4><%= link_to news_item.title, news_item %></h4></td>
   </tr>
   <%- end -%>
   <%- if @recent_news.empty? -%>
   <tr>
-    <td><h4>News in the last 4 weeks</h4></td>
+    <td><h4>No new news in the last 4 weeks</h4></td>
   </tr>
   <%- end -%>
   <tr>
     <td>
-      <i><%= link_to 'More &hellip;', :controller => 'articles', :id_type => "article_category", :article_category_id => @news_category %></i>
+      <i><%= link_to 'More &hellip;', @news_category %></i>
     </td>
   </tr>
 </table>

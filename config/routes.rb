@@ -93,9 +93,11 @@ ActionController::Routing::Routes.draw do |map|
   map.connect "/schedule/:discipline", :controller => "schedule", :action => "index"
   map.connect "/schedule/", :controller => "schedule"
   
-  map.connect "/articles/:id_type/:article_category_id", :controller => "articles"
-  map.connect "/articles/:id", :controller => "articles", :action => "show"
-  #map.resources :articles
+  map.resources :articles
+  
+  #map.connect "/article_categories/:parent_id/:id", :controller => "article_categories", :action => "show", :parent_id => "0"
+  #map.connect "/article_categories/:id", :controller => "article_categories", :action => "show"
+  map.resources :article_categories
 
   map.resources :subscriptions, :collection => { :subscribed => :get }
 
