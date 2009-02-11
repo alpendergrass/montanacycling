@@ -181,17 +181,21 @@
       </table>
     </td>
     <td>
-	    <table>
-	      <tr>
-	        <td class="field_label">Sanctioned by:</td>
-	        <td><%= select 'event', 'sanctioned_by', SANCTIONING_ORGANIZATIONS %></td>
-	      </tr>
-	      <tr>
-	        <td class="field_label">Number Issuer:</td>
-	        <td><%= number_issuers %></td>
-	      </tr>
-	    </table>
-   </td>
+      <table>
+        <tr>
+          <td class="field_label">Sanctioned by:</td>
+          <td><%= select 'event', 'sanctioned_by', SANCTIONING_ORGANIZATIONS %></td>
+        </tr>
+        <tr>
+          <td class="field_label" width="100">USAC Event Number:</td>
+          <td width="100%"><%= text_field 'event', 'usac_event_number', :style => 'width: 100px;' %></td>
+        </tr>
+        <tr>
+          <td class="field_label">Number Issuer:</td>
+          <td><%= number_issuers %></td>
+        </tr>
+      </table>
+    </td>
    </tr>
   <tr>
     <td colspan="2">
