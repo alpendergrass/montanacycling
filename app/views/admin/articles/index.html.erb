@@ -19,7 +19,7 @@
       <td><%=h article.position %></td>
       <td><%=h article.display %></td>
       <td><%=h article.updated_at.to_formatted_s(:long) %></td>
-      <td><%= link_to "(delete)", admin_article_path(article), :confirm => 'Are you sure?', :method => :delete %></td>
+      <td><%#= link_to "(delete)", admin_article_path(article), :confirm => 'Are you sure?', :method => :delete %></td>
     </tr>
   <% end %>
 </table>
