@@ -66,7 +66,7 @@ class Standings < ActiveRecord::Base
     races_copy = races.select {|race|
       !race.results.empty?
     }
-    races_copy.sort!
+    #races_copy.sort! alphere this causes races on the public results page to sort in an unexpected order.
     races_copy
   end
   

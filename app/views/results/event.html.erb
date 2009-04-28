@@ -82,10 +82,10 @@
       <h2><%= standings.name -%></h2>
     <%- end -%>
   
-    <div class="updatedon">Updated <%= standings.updated_at.to_formatted_s(:long) %></div>
-    <% if !standings.is_a?(CombinedStandings) %>
-      <div><small><a href="http://<%= STATIC_HOST %>/results/questions.html" class="obvious">Results questions?</a></small></div>
-    <%- end -%>
+    <div class="updatedon">Updated <%= standings.updated_at.to_formatted_s(:long) %></div><br/><br/>
+    <%# if !standings.is_a?(CombinedStandings) %>
+      <!--div><small><a href="http://<%#= STATIC_HOST %>/results/questions.html" class="obvious">Results questions?</a></small></div-->
+    <%#- end -%>
   
     <% standings.races_with_results.each_with_index do |race, index| %>
       <a name="race_<%= race.id %>" id="race_<%= race.id %>" class="anchor" />
